@@ -1,0 +1,6347 @@
+[
+  {
+    "word": "的",
+    "pinyin": "de",
+    "meanings": [
+      "possessive particle",
+      "of",
+      "nominalizer"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1
+  },
+  {
+    "word": "我",
+    "pinyin": "wǒ",
+    "meanings": [
+      "I; me; my"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3
+  },
+  {
+    "word": "了",
+    "pinyin": "le",
+    "meanings": [
+      "aspect particle",
+      "modal particle (change of state)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3
+  },
+  {
+    "word": "了",
+    "pinyin": "liǎo",
+    "meanings": [
+      "to finish",
+      "to achieve",
+      "to understand clearly"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3
+  },
+  {
+    "word": "是",
+    "pinyin": "shì",
+    "meanings": [
+      "to be",
+      "correct",
+      "true"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4
+  },
+  {
+    "word": "在",
+    "pinyin": "zài",
+    "meanings": [
+      "to exist; to be alive",
+      "(of sb or sth) to be (located) at",
+      "(used before a verb to indicate an action in progress)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 5
+  },
+  {
+    "word": "你",
+    "pinyin": "nǐ",
+    "meanings": [
+      "you (informal)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 5
+  },
+  {
+    "word": "不",
+    "pinyin": "bù",
+    "meanings": [
+      "no; not so",
+      "(bound form) not; un-"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 9
+  },
+  {
+    "word": "有",
+    "pinyin": "yǒu",
+    "meanings": [
+      "to have; there is",
+      "(bound form) having; with; -ful; -ed; -al (as in 意 intentional)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 9
+  },
+  {
+    "word": "他",
+    "pinyin": "tā",
+    "meanings": [
+      "he; him (used for either sex when the sex is unknown or unimportant)",
+      "(used before sb's name for emphasis)",
+      "(used as a meaningless mock object)",
+      "(literary) other"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 10
+  },
+  {
+    "word": "这",
+    "pinyin": "zhè",
+    "meanings": [
+      "(pronoun) this; these",
+      "(bound form) this; the (followed by a noun)",
+      "(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 11
+  },
+  {
+    "word": "就",
+    "pinyin": "jiù",
+    "meanings": [
+      "(after a suppositional clause) in that case; then",
+      "(after a clause of action) as soon as; immediately after",
+      "(same as 是) merely; nothing else but; simply; just; precisely; exactly",
+      "only; as little as",
+      "as much as; as many as",
+      "to approach; to move towards",
+      "to undertake; to engage in",
+      "(often followed by 着) taking advantage of",
+      "(of food) to go with",
+      "with regard to; concerning",
+      "(pattern: 就 ... 也 ...) even if ... still ...",
+      "(pattern: 不 ... 就 ...) if not ... then must be ..."
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 15
+  },
+  {
+    "word": "人",
+    "pinyin": "rén",
+    "meanings": [
+      "person; people"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 19
+  },
+  {
+    "word": "我们",
+    "pinyin": "wǒ men",
+    "meanings": [
+      "we",
+      "us",
+      "ourselves",
+      "our"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 19
+  },
+  {
+    "word": "个",
+    "pinyin": "gè",
+    "meanings": [
+      "general classifier",
+      "individual"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 19
+  },
+  {
+    "word": "和",
+    "pinyin": "hé",
+    "meanings": [
+      "and",
+      "together with",
+      "harmonious",
+      "sum"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 19
+  },
+  {
+    "word": "说",
+    "pinyin": "shuō",
+    "meanings": [
+      "to speak",
+      "to say",
+      "to explain"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 19
+  },
+  {
+    "word": "要",
+    "pinyin": "yào",
+    "meanings": [
+      "to want",
+      "to need",
+      "will",
+      "important"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 19
+  },
+  {
+    "word": "好",
+    "pinyin": "hǎo",
+    "meanings": [
+      "good",
+      "well",
+      "easy to",
+      "so (exclamatory)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 20
+  },
+  {
+    "word": "好",
+    "pinyin": "hào",
+    "meanings": [
+      "to be fond of",
+      "to have a tendency to"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 20
+  },
+  {
+    "word": "一",
+    "pinyin": "yī",
+    "meanings": [
+      "one",
+      "single",
+      "a (article)",
+      "as soon as",
+      "entire; whole; all; throughout",
+      "\"one\" radical in Chinese characters (Kangxi radical 1)",
+      "also pr. [yāo] for greater clarity when spelling out numbers digit by digit"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 21
+  },
+  {
+    "word": "会",
+    "pinyin": "huì",
+    "meanings": [
+      "can",
+      "to know how to",
+      "meeting",
+      "likely to"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 23
+  },
+  {
+    "word": "也",
+    "pinyin": "yě",
+    "meanings": [
+      "also",
+      "too",
+      "as well"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 23
+  },
+  {
+    "word": "都",
+    "pinyin": "dōu",
+    "meanings": [
+      "all",
+      "both",
+      "already",
+      "even"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 25
+  },
+  {
+    "word": "都",
+    "pinyin": "dū",
+    "meanings": [
+      "capital city",
+      "metropolis"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 25
+  },
+  {
+    "word": "对",
+    "pinyin": "duì",
+    "meanings": [
+      "right; correct",
+      "towards; at; for",
+      "concerning; regarding",
+      "to treat (sb a certain way)",
+      "to face",
+      "(bound form) opposite; facing; matching",
+      "to match together; to adjust",
+      "to fit; to suit",
+      "to answer; to reply",
+      "to add; to pour in (a fluid)",
+      "to check; to compare",
+      "classifier: couple; pair"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 28
+  },
+  {
+    "word": "到",
+    "pinyin": "dào",
+    "meanings": [
+      "to reach; to arrive",
+      "to leave for; to go to",
+      "to (a place); until (a time); up to (a point)",
+      "(verb complement indicating arriving at a place or reaching a point)",
+      "considerate; thoughtful; thorough"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 29
+  },
+  {
+    "word": "上",
+    "pinyin": "shàng",
+    "meanings": [
+      "up",
+      "upper",
+      "to go up"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 29
+  },
+  {
+    "word": "来",
+    "pinyin": "lái",
+    "meanings": [
+      "to come",
+      "(used as a substitute for a more specific verb)",
+      "hither (directional complement for motion toward the speaker, as in 回来)",
+      "ever since (as in 自古以来)",
+      "for the past (amount of time)",
+      "(prefix) the coming ...; the next ... (as in 来世)",
+      "(between two verbs) in order to",
+      "(after a round number) approximately",
+      "(used after 得 to indicate possibility, as in 谈得来, or after 不 to indicate impossibility, as in 吃不来)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 31
+  },
+  {
+    "word": "很",
+    "pinyin": "hěn",
+    "meanings": [
+      "(adverb of degree)",
+      "quite",
+      "very",
+      "awfully"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 35
+  },
+  {
+    "word": "还",
+    "pinyin": "hái",
+    "meanings": [
+      "still",
+      "yet",
+      "even more",
+      "in addition"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 37
+  },
+  {
+    "word": "还",
+    "pinyin": "huán",
+    "meanings": [
+      "to pay back",
+      "to return"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 37
+  },
+  {
+    "word": "去",
+    "pinyin": "qù",
+    "meanings": [
+      "to go",
+      "to go to (a place)",
+      "(of a time etc) last",
+      "just passed",
+      "to send",
+      "to remove",
+      "to get rid of",
+      "to reduce",
+      "to be apart from in space or time",
+      "to die (euphemism)",
+      "to play (a part)",
+      "(when used either before or after a verb) to go in order to do sth",
+      "(after a verb of motion indicates movement away from the speaker)",
+      "(used after certain verbs to indicate detachment or separation)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 38
+  },
+  {
+    "word": "她",
+    "pinyin": "tā",
+    "meanings": [
+      "she"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 38
+  },
+  {
+    "word": "着",
+    "pinyin": "zhe",
+    "meanings": [
+      "aspect particle (action in progress)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 38
+  },
+  {
+    "word": "着",
+    "pinyin": "zháo",
+    "meanings": [
+      "to touch",
+      "to catch fire",
+      "to fall asleep"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 38
+  },
+  {
+    "word": "想",
+    "pinyin": "xiǎng",
+    "meanings": [
+      "to think (about)",
+      "to think of; to devise",
+      "to think (that); to believe (that)",
+      "to desire; to want (to)",
+      "to miss (feel wistful about the absence of)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 44
+  },
+  {
+    "word": "没有",
+    "pinyin": "méi yǒu",
+    "meanings": [
+      "haven't",
+      "hasn't",
+      "doesn't exist",
+      "to not have",
+      "to not be"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 46
+  },
+  {
+    "word": "给",
+    "pinyin": "gěi",
+    "meanings": [
+      "to give",
+      "for",
+      "to",
+      "allow"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 46
+  },
+  {
+    "word": "能",
+    "pinyin": "néng",
+    "meanings": [
+      "can",
+      "able to",
+      "ability",
+      "energy"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 46
+  },
+  {
+    "word": "那",
+    "pinyin": "nà",
+    "meanings": [
+      "that",
+      "those",
+      "then"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 48
+  },
+  {
+    "word": "他们",
+    "pinyin": "tā men",
+    "meanings": [
+      "they"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 49
+  },
+  {
+    "word": "看",
+    "pinyin": "kàn",
+    "meanings": [
+      "to see",
+      "to look at",
+      "to read",
+      "to watch",
+      "to visit"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 52
+  },
+  {
+    "word": "做",
+    "pinyin": "zuò",
+    "meanings": [
+      "to make; to produce",
+      "to write; to compose",
+      "to do; to engage in; to hold (a party etc)",
+      "(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)",
+      "(of a thing) to serve as; to be used for",
+      "to assume (an air or manner)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 53
+  },
+  {
+    "word": "什么",
+    "pinyin": "shén me",
+    "meanings": [
+      "what?",
+      "something",
+      "anything"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 55
+  },
+  {
+    "word": "点",
+    "pinyin": "diǎn",
+    "meanings": [
+      "point",
+      "dot",
+      "drop",
+      "speck",
+      "o'clock",
+      "point (in space or time)",
+      "to draw a dot",
+      "to check on a list",
+      "to choose",
+      "to order (food in a restaurant)",
+      "to touch briefly",
+      "to hint",
+      "to light",
+      "to ignite",
+      "to pour a liquid drop by drop",
+      "(old) one fifth of a two-hour watch 更",
+      "dot stroke in Chinese characters",
+      "classifier for items"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 58
+  },
+  {
+    "word": "吧",
+    "pinyin": "ba",
+    "meanings": [
+      "modal particle (suggestion/surmise)",
+      "...right?",
+      "...OK?"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 58
+  },
+  {
+    "word": "过",
+    "pinyin": "guò",
+    "meanings": [
+      "to cross",
+      "to pass",
+      "to celebrate",
+      "excessively"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 60
+  },
+  {
+    "word": "过",
+    "pinyin": "guo",
+    "meanings": [
+      "experienced action marker"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 60
+  },
+  {
+    "word": "没",
+    "pinyin": "méi",
+    "meanings": [
+      "have not",
+      "not"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 63
+  },
+  {
+    "word": "大",
+    "pinyin": "dà",
+    "meanings": [
+      "big",
+      "large",
+      "great",
+      "older",
+      "greatly"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 66
+  },
+  {
+    "word": "下",
+    "pinyin": "xià",
+    "meanings": [
+      "down",
+      "downwards",
+      "below",
+      "lower",
+      "later",
+      "next (week etc)",
+      "second (of two parts)",
+      "to decline",
+      "to go down",
+      "to arrive at (a decision, conclusion etc)",
+      "measure word to show the frequency of an action"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 70
+  },
+  {
+    "word": "从",
+    "pinyin": "cóng",
+    "meanings": [
+      "from",
+      "through",
+      "to follow",
+      "to obey",
+      "to engage in"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 70
+  },
+  {
+    "word": "中",
+    "pinyin": "zhōng",
+    "meanings": [
+      "middle",
+      "center",
+      "China",
+      "Chinese",
+      "within"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 71
+  },
+  {
+    "word": "中",
+    "pinyin": "zhòng",
+    "meanings": [
+      "to hit target",
+      "to win prize",
+      "to suffer"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 71
+  },
+  {
+    "word": "里",
+    "pinyin": "lǐ",
+    "meanings": [
+      "neighborhood",
+      "inside",
+      "ancient measure of length"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 75
+  },
+  {
+    "word": "真",
+    "pinyin": "zhēn",
+    "meanings": [
+      "really",
+      "truly",
+      "indeed",
+      "real",
+      "true",
+      "genuine"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 76
+  },
+  {
+    "word": "现在",
+    "pinyin": "xiàn zài",
+    "meanings": [
+      "now",
+      "at present",
+      "at the moment",
+      "modern",
+      "current",
+      "nowadays"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 77
+  },
+  {
+    "word": "用",
+    "pinyin": "yòng",
+    "meanings": [
+      "to use",
+      "to employ",
+      "to have to",
+      "to eat or drink",
+      "expense or outlay",
+      "usefulness",
+      "hence",
+      "therefore"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 79
+  },
+  {
+    "word": "年",
+    "pinyin": "nián",
+    "meanings": [
+      "year"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 79
+  },
+  {
+    "word": "多",
+    "pinyin": "duō",
+    "meanings": [
+      "many; much",
+      "too many; in excess",
+      "(after a numeral) ... odd",
+      "how (to what extent) (Taiwan pr. [duó])",
+      "(bound form) multi-; poly-"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 80
+  },
+  {
+    "word": "两",
+    "pinyin": "liǎng",
+    "meanings": [
+      "two",
+      "both",
+      "some",
+      "a few",
+      "tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤 (old)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 81
+  },
+  {
+    "word": "等",
+    "pinyin": "děng",
+    "meanings": [
+      "class",
+      "rank",
+      "grade",
+      "equal to",
+      "same as",
+      "to wait for",
+      "to await",
+      "et cetera",
+      "and so on",
+      "et al. (and other authors)",
+      "after",
+      "as soon as",
+      "once"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 83
+  },
+  {
+    "word": "天",
+    "pinyin": "tiān",
+    "meanings": [
+      "day",
+      "sky",
+      "heaven"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 83
+  },
+  {
+    "word": "吗",
+    "pinyin": "ma",
+    "meanings": [
+      "question particle"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 83
+  },
+  {
+    "word": "出",
+    "pinyin": "chū",
+    "meanings": [
+      "to go out",
+      "to occur",
+      "to produce",
+      "to exceed",
+      "to issue"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 85
+  },
+  {
+    "word": "太",
+    "pinyin": "tài",
+    "meanings": [
+      "highest",
+      "greatest",
+      "too (much)",
+      "very",
+      "extremely"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 87
+  },
+  {
+    "word": "最",
+    "pinyin": "zuì",
+    "meanings": [
+      "most",
+      "-est (superlative)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 89
+  },
+  {
+    "word": "再",
+    "pinyin": "zài",
+    "meanings": [
+      "again; once more; re-",
+      "second; another",
+      "then (after sth, and not until then)",
+      "no matter how ... (followed by an adjective or verb, and then (usually) 也 or 都 for emphasis)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 91
+  },
+  {
+    "word": "呢",
+    "pinyin": "ne",
+    "meanings": [
+      "question particle",
+      "continuation particle"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 96
+  },
+  {
+    "word": "次",
+    "pinyin": "cì",
+    "meanings": [
+      "next in sequence",
+      "second",
+      "the second (day, time etc)",
+      "secondary",
+      "vice-",
+      "sub-",
+      "infra-",
+      "inferior quality",
+      "substandard",
+      "order",
+      "sequence",
+      "hypo- (chemistry)",
+      "classifier for enumerated events: time"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 99
+  },
+  {
+    "word": "小",
+    "pinyin": "xiǎo",
+    "meanings": [
+      "small",
+      "tiny",
+      "few",
+      "young"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 100
+  },
+  {
+    "word": "知道",
+    "pinyin": "zhī dào",
+    "meanings": [
+      "to know; to become aware of",
+      "also pr. [zhī dao]"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 105
+  },
+  {
+    "word": "时候",
+    "pinyin": "shí hou",
+    "meanings": [
+      "time",
+      "length of time",
+      "moment",
+      "period"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 107
+  },
+  {
+    "word": "走",
+    "pinyin": "zǒu",
+    "meanings": [
+      "to walk",
+      "to go",
+      "to run",
+      "to move (of vehicle)",
+      "to visit",
+      "to leave",
+      "to go away",
+      "to die (euph.)",
+      "from",
+      "through",
+      "away (in compound verbs, such as 走)",
+      "to change (shape, form, meaning)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 109
+  },
+  {
+    "word": "工作",
+    "pinyin": "gōng zuò",
+    "meanings": [
+      "to work",
+      "(of a machine) to operate",
+      "job",
+      "work",
+      "task"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 份 / 项",
+    "frequency": 111
+  },
+  {
+    "word": "事",
+    "pinyin": "shì",
+    "meanings": [
+      "matter",
+      "thing",
+      "item",
+      "work",
+      "affair"
+    ],
+    "hsk_level": 1,
+    "classifier": "件 / 桩 / 回",
+    "frequency": 113
+  },
+  {
+    "word": "后",
+    "pinyin": "hòu",
+    "meanings": [
+      "behind",
+      "after",
+      "later",
+      "rear"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 115
+  },
+  {
+    "word": "家",
+    "pinyin": "jiā",
+    "meanings": [
+      "home",
+      "family",
+      "specialist (suffix)",
+      "classifier for families"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 124
+  },
+  {
+    "word": "你们",
+    "pinyin": "nǐ men",
+    "meanings": [
+      "you (plural)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 127
+  },
+  {
+    "word": "前",
+    "pinyin": "qián",
+    "meanings": [
+      "front",
+      "forward",
+      "ahead",
+      "first",
+      "top (followed by a number)",
+      "future",
+      "ago",
+      "before",
+      "BC (e.g. 前293年)",
+      "former",
+      "formerly"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 127
+  },
+  {
+    "word": "时间",
+    "pinyin": "shí jiān",
+    "meanings": [
+      "time",
+      "period"
+    ],
+    "hsk_level": 1,
+    "classifier": "段",
+    "frequency": 127
+  },
+  {
+    "word": "怎么",
+    "pinyin": "zěn me",
+    "meanings": [
+      "how?",
+      "what?",
+      "why?"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 128
+  },
+  {
+    "word": "爱",
+    "pinyin": "ài",
+    "meanings": [
+      "to love; to be fond of; to like",
+      "affection",
+      "to be inclined (to do sth); to tend to (happen)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 130
+  },
+  {
+    "word": "这些",
+    "pinyin": "zhè xiē",
+    "meanings": [
+      "these"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 132
+  },
+  {
+    "word": "地",
+    "pinyin": "de",
+    "meanings": [
+      "-ly",
+      "adverbial particle"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 132
+  },
+  {
+    "word": "地",
+    "pinyin": "dì",
+    "meanings": [
+      "earth",
+      "ground",
+      "place",
+      "land"
+    ],
+    "hsk_level": 1,
+    "classifier": "片",
+    "frequency": 132
+  },
+  {
+    "word": "跟",
+    "pinyin": "gēn",
+    "meanings": [
+      "heel",
+      "to follow closely",
+      "to go with",
+      "(of a woman) to marry sb",
+      "with",
+      "compared with",
+      "to",
+      "towards",
+      "and (joining two nouns)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 135
+  },
+  {
+    "word": "喜欢",
+    "pinyin": "xǐ huan",
+    "meanings": [
+      "to like; to be fond of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 139
+  },
+  {
+    "word": "谁",
+    "pinyin": "shéi",
+    "meanings": [
+      "who",
+      "also pr. [shuí]"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 142
+  },
+  {
+    "word": "吃",
+    "pinyin": "chī",
+    "meanings": [
+      "to eat",
+      "to consume",
+      "to suffer",
+      "to absorb"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 142
+  },
+  {
+    "word": "新",
+    "pinyin": "xīn",
+    "meanings": [
+      "new",
+      "newly"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 150
+  },
+  {
+    "word": "找",
+    "pinyin": "zhǎo",
+    "meanings": [
+      "to try to find",
+      "to look for",
+      "to call on sb",
+      "to find",
+      "to seek",
+      "to return",
+      "to give change"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 152
+  },
+  {
+    "word": "还有",
+    "pinyin": "hái yǒu",
+    "meanings": [
+      "furthermore",
+      "in addition",
+      "still",
+      "also"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 153
+  },
+  {
+    "word": "快",
+    "pinyin": "kuài",
+    "meanings": [
+      "rapid",
+      "quick",
+      "speed",
+      "rate",
+      "soon",
+      "almost",
+      "to make haste",
+      "clever",
+      "sharp (of knives or wits)",
+      "forthright",
+      "plainspoken",
+      "gratified",
+      "pleased",
+      "pleasant"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 153
+  },
+  {
+    "word": "打",
+    "pinyin": "dǎ",
+    "meanings": [
+      "to hit",
+      "to beat",
+      "to type",
+      "to make",
+      "to fight"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 153
+  },
+  {
+    "word": "今天",
+    "pinyin": "jīn tiān",
+    "meanings": [
+      "today",
+      "at the present",
+      "now"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 155
+  },
+  {
+    "word": "比",
+    "pinyin": "bǐ",
+    "meanings": [
+      "to compare",
+      "ratio",
+      "more...than",
+      "to gesture"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 155
+  },
+  {
+    "word": "话",
+    "pinyin": "huà",
+    "meanings": [
+      "speech",
+      "talk",
+      "words",
+      "language",
+      "dialect"
+    ],
+    "hsk_level": 1,
+    "classifier": "种",
+    "frequency": 157
+  },
+  {
+    "word": "还是",
+    "pinyin": "hái shi",
+    "meanings": [
+      "still (as before)",
+      "had better",
+      "unexpectedly",
+      "or"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 160
+  },
+  {
+    "word": "觉得",
+    "pinyin": "jué de",
+    "meanings": [
+      "to think that ...; to feel that ...",
+      "to feel (uncomfortable etc)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 161
+  },
+  {
+    "word": "月",
+    "pinyin": "yuè",
+    "meanings": [
+      "moon",
+      "month",
+      "monthly"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 轮",
+    "frequency": 161
+  },
+  {
+    "word": "看到",
+    "pinyin": "kàn dào",
+    "meanings": [
+      "to see"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 169
+  },
+  {
+    "word": "一起",
+    "pinyin": "yī qǐ",
+    "meanings": [
+      "in the same place",
+      "together",
+      "with",
+      "altogether (in total)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 172
+  },
+  {
+    "word": "起来",
+    "pinyin": "qǐlai",
+    "meanings": [
+      "to stand up",
+      "to get up"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 172
+  },
+  {
+    "word": "起",
+    "pinyin": "qǐ",
+    "meanings": [
+      "to rise",
+      "to raise",
+      "to get up",
+      "to set out",
+      "to start",
+      "to appear",
+      "to launch",
+      "to initiate (action)",
+      "to draft",
+      "to establish",
+      "to get (from a depot or counter)",
+      "verb suffix, to start",
+      "starting from (a time, place, price etc)",
+      "classifier for occurrences or unpredictable events: case, instance",
+      "classifier for groups: batch, group"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 174
+  },
+  {
+    "word": "几",
+    "pinyin": "jǐ",
+    "meanings": [
+      "how many",
+      "several",
+      "a few"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 178
+  },
+  {
+    "word": "见",
+    "pinyin": "jiàn",
+    "meanings": [
+      "to see",
+      "to meet",
+      "opinion",
+      "view"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 178
+  },
+  {
+    "word": "车",
+    "pinyin": "chē",
+    "meanings": [
+      "car",
+      "vehicle",
+      "machine",
+      "to lathe"
+    ],
+    "hsk_level": 1,
+    "classifier": "辆",
+    "frequency": 186
+  },
+  {
+    "word": "一些",
+    "pinyin": "yī xiē",
+    "meanings": [
+      "some",
+      "a few",
+      "a little",
+      "(following an adjective) slightly ...er"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 187
+  },
+  {
+    "word": "找到",
+    "pinyin": "zhǎo dào",
+    "meanings": [
+      "to find"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 188
+  },
+  {
+    "word": "手",
+    "pinyin": "shǒu",
+    "meanings": [
+      "hand",
+      "(formal) to hold",
+      "person engaged in certain types of work",
+      "person skilled in certain types of work",
+      "personal(ly)",
+      "convenient",
+      "classifier for skill"
+    ],
+    "hsk_level": 1,
+    "classifier": "双 / 只",
+    "frequency": 190
+  },
+  {
+    "word": "听",
+    "pinyin": "tīng",
+    "meanings": [
+      "to listen",
+      "to hear"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 190
+  },
+  {
+    "word": "非常",
+    "pinyin": "fēi cháng",
+    "meanings": [
+      "very; really",
+      "unusual; extraordinary"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 194
+  },
+  {
+    "word": "开",
+    "pinyin": "kāi",
+    "meanings": [
+      "to open (transitive or intransitive)",
+      "(of ships, vehicles, troops etc) to start",
+      "to turn on; to put in operation; to operate; to run",
+      "to boil",
+      "to write out (a prescription, check, invoice etc)",
+      "(directional complement) away; off",
+      "carat (gold)",
+      "abbr. for Kelvin, 开尔文",
+      "abbr. for 开本, book format"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 195
+  },
+  {
+    "word": "叫",
+    "pinyin": "jiào",
+    "meanings": [
+      "to call",
+      "to shout",
+      "to order",
+      "to be called"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 200
+  },
+  {
+    "word": "孩子",
+    "pinyin": "hái zi",
+    "meanings": [
+      "child"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 207
+  },
+  {
+    "word": "这里",
+    "pinyin": "zhè lǐ",
+    "meanings": [
+      "here"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 209
+  },
+  {
+    "word": "别",
+    "pinyin": "bié",
+    "meanings": [
+      "don't",
+      "to leave",
+      "other",
+      "different",
+      "to distinguish"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 214
+  },
+  {
+    "word": "请",
+    "pinyin": "qǐng",
+    "meanings": [
+      "to ask",
+      "to invite",
+      "please (do sth)",
+      "to treat (to a meal etc)",
+      "to request"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 216
+  },
+  {
+    "word": "钱",
+    "pinyin": "qián",
+    "meanings": [
+      "money",
+      "coin"
+    ],
+    "hsk_level": 1,
+    "classifier": "笔",
+    "frequency": 218
+  },
+  {
+    "word": "本",
+    "pinyin": "běn",
+    "meanings": [
+      "root",
+      "stem",
+      "origin",
+      "source",
+      "this",
+      "the current",
+      "original",
+      "inherent",
+      "originally",
+      "classifier for books, periodicals, files etc"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 222
+  },
+  {
+    "word": "回",
+    "pinyin": "huí",
+    "meanings": [
+      "to return",
+      "to go back",
+      "to answer",
+      "time (classifier)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 225
+  },
+  {
+    "word": "东西",
+    "pinyin": "dōng xī",
+    "meanings": [
+      "east and west"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 226
+  },
+  {
+    "word": "东西",
+    "pinyin": "dōng xi",
+    "meanings": [
+      "thing",
+      "stuff"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 226
+  },
+  {
+    "word": "三",
+    "pinyin": "sān",
+    "meanings": [
+      "three",
+      "3"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 233
+  },
+  {
+    "word": "一样",
+    "pinyin": "yī yàng",
+    "meanings": [
+      "same",
+      "like",
+      "equal to",
+      "the same as",
+      "just like"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 235
+  },
+  {
+    "word": "买",
+    "pinyin": "mǎi",
+    "meanings": [
+      "to buy",
+      "to purchase"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 240
+  },
+  {
+    "word": "重要",
+    "pinyin": "zhòng yào",
+    "meanings": [
+      "important",
+      "significant",
+      "major"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 240
+  },
+  {
+    "word": "问",
+    "pinyin": "wèn",
+    "meanings": [
+      "to ask; to inquire"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 246
+  },
+  {
+    "word": "告诉",
+    "pinyin": "gào su",
+    "meanings": [
+      "to tell",
+      "to inform"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 252
+  },
+  {
+    "word": "出来",
+    "pinyin": "chū lái",
+    "meanings": [
+      "to come out",
+      "to appear",
+      "to arise"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 254
+  },
+  {
+    "word": "地方",
+    "pinyin": "dì fāng",
+    "meanings": [
+      "region",
+      "local"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 254
+  },
+  {
+    "word": "地方",
+    "pinyin": "dì fang",
+    "meanings": [
+      "place",
+      "area",
+      "space"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 254
+  },
+  {
+    "word": "最后",
+    "pinyin": "zuì hòu",
+    "meanings": [
+      "final",
+      "last",
+      "finally",
+      "ultimate"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 261
+  },
+  {
+    "word": "老",
+    "pinyin": "lǎo",
+    "meanings": [
+      "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
+      "old (of people)",
+      "venerable (person)",
+      "experienced",
+      "of long standing",
+      "always",
+      "all the time",
+      "of the past",
+      "very",
+      "outdated",
+      "(of meat etc) tough"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 266
+  },
+  {
+    "word": "岁",
+    "pinyin": "suì",
+    "meanings": [
+      "year",
+      "years old"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 266
+  },
+  {
+    "word": "行",
+    "pinyin": "xíng",
+    "meanings": [
+      "to walk",
+      "to go",
+      "to do",
+      "OK",
+      "capable"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 272
+  },
+  {
+    "word": "行",
+    "pinyin": "háng",
+    "meanings": [
+      "row",
+      "line",
+      "profession",
+      "business firm"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 272
+  },
+  {
+    "word": "号",
+    "pinyin": "hào",
+    "meanings": [
+      "number",
+      "size",
+      "mark",
+      "day of month"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 278
+  },
+  {
+    "word": "放",
+    "pinyin": "fàng",
+    "meanings": [
+      "to put",
+      "to place",
+      "to release",
+      "to free",
+      "to let go",
+      "to let out",
+      "to set off (fireworks)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 280
+  },
+  {
+    "word": "朋友",
+    "pinyin": "péng you",
+    "meanings": [
+      "friend"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 280
+  },
+  {
+    "word": "住",
+    "pinyin": "zhù",
+    "meanings": [
+      "to live",
+      "to dwell",
+      "to stay",
+      "to reside",
+      "to stop",
+      "(suffix indicating firmness, steadiness, or coming to a halt)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 280
+  },
+  {
+    "word": "拿",
+    "pinyin": "ná",
+    "meanings": [
+      "to hold",
+      "to take",
+      "to seize"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 287
+  },
+  {
+    "word": "高",
+    "pinyin": "gāo",
+    "meanings": [
+      "high",
+      "tall",
+      "loud"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 290
+  },
+  {
+    "word": "正",
+    "pinyin": "zhèng",
+    "meanings": [
+      "straight",
+      "upright",
+      "main",
+      "to correct",
+      "exactly"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 294
+  },
+  {
+    "word": "先",
+    "pinyin": "xiān",
+    "meanings": [
+      "early",
+      "prior",
+      "former",
+      "in advance",
+      "first"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 306
+  },
+  {
+    "word": "得到",
+    "pinyin": "dé dào",
+    "meanings": [
+      "to get",
+      "to obtain",
+      "to receive"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 308
+  },
+  {
+    "word": "那些",
+    "pinyin": "nà xiē",
+    "meanings": [
+      "those"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 326
+  },
+  {
+    "word": "准备",
+    "pinyin": "zhǔn bèi",
+    "meanings": [
+      "preparation",
+      "to prepare",
+      "to intend",
+      "to be about to",
+      "reserve (fund)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 333
+  },
+  {
+    "word": "水",
+    "pinyin": "shuǐ",
+    "meanings": [
+      "water",
+      "river"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 335
+  },
+  {
+    "word": "进",
+    "pinyin": "jìn",
+    "meanings": [
+      "to go forward",
+      "to advance",
+      "to go in",
+      "to enter",
+      "to put in",
+      "to submit",
+      "to take in",
+      "to admit",
+      "(math.) base of a number system",
+      "classifier for sections in a building or residential compound"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 338
+  },
+  {
+    "word": "写",
+    "pinyin": "xiě",
+    "meanings": [
+      "to write"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 352
+  },
+  {
+    "word": "国家",
+    "pinyin": "guó jiā",
+    "meanings": [
+      "country; nation; state"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 356
+  },
+  {
+    "word": "您",
+    "pinyin": "nín",
+    "meanings": [
+      "you (courteous, as opposed to informal 你)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 357
+  },
+  {
+    "word": "电话",
+    "pinyin": "diàn huà",
+    "meanings": [
+      "telephone",
+      "phone call",
+      "phone number"
+    ],
+    "hsk_level": 1,
+    "classifier": "部 / 通",
+    "frequency": 359
+  },
+  {
+    "word": "女",
+    "pinyin": "nǚ",
+    "meanings": [
+      "female",
+      "woman",
+      "daughter"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 368
+  },
+  {
+    "word": "送",
+    "pinyin": "sòng",
+    "meanings": [
+      "to send; to deliver; to transmit",
+      "to give (as a present)",
+      "to see (sb) off",
+      "to accompany; to go along with"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 370
+  },
+  {
+    "word": "分",
+    "pinyin": "fēn",
+    "meanings": [
+      "to divide",
+      "to distribute",
+      "minute",
+      "cent"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 372
+  },
+  {
+    "word": "分",
+    "pinyin": "fèn",
+    "meanings": [
+      "part",
+      "share",
+      "component"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 372
+  },
+  {
+    "word": "笑",
+    "pinyin": "xiào",
+    "meanings": [
+      "to laugh",
+      "to smile"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 382
+  },
+  {
+    "word": "女人",
+    "pinyin": "nǚrén",
+    "meanings": [
+      "woman"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 383
+  },
+  {
+    "word": "小时",
+    "pinyin": "xiǎo shí",
+    "meanings": [
+      "hour"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 389
+  },
+  {
+    "word": "有些",
+    "pinyin": "yǒu xiē",
+    "meanings": [
+      "some",
+      "somewhat"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 394
+  },
+  {
+    "word": "有些",
+    "pinyin": "yǒu xiē",
+    "meanings": [
+      "some",
+      "somewhat"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 394
+  },
+  {
+    "word": "帮",
+    "pinyin": "bāng",
+    "meanings": [
+      "to help",
+      "to assist",
+      "to support",
+      "group",
+      "gang"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 395
+  },
+  {
+    "word": "日",
+    "pinyin": "rì",
+    "meanings": [
+      "sun",
+      "day"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 395
+  },
+  {
+    "word": "别人",
+    "pinyin": "bié ren",
+    "meanings": [
+      "other people; others; other person"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 397
+  },
+  {
+    "word": "站",
+    "pinyin": "zhàn",
+    "meanings": [
+      "station",
+      "to stand",
+      "to halt",
+      "to stop",
+      "branch of a company or organization",
+      "website"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 399
+  },
+  {
+    "word": "路",
+    "pinyin": "lù",
+    "meanings": [
+      "road",
+      "route",
+      "journey",
+      "line"
+    ],
+    "hsk_level": 1,
+    "classifier": "条",
+    "frequency": 409
+  },
+  {
+    "word": "男人",
+    "pinyin": "nán rén",
+    "meanings": [
+      "a man",
+      "a male",
+      "men"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 415
+  },
+  {
+    "word": "正在",
+    "pinyin": "zhèng zài",
+    "meanings": [
+      "just at (that time)",
+      "right in (that place)",
+      "right in the middle of (doing sth)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 420
+  },
+  {
+    "word": "门",
+    "pinyin": "mén",
+    "meanings": [
+      "door",
+      "gate",
+      "gateway",
+      "family"
+    ],
+    "hsk_level": 1,
+    "classifier": "扇",
+    "frequency": 422
+  },
+  {
+    "word": "喝",
+    "pinyin": "hē",
+    "meanings": [
+      "to drink"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 428
+  },
+  {
+    "word": "穿",
+    "pinyin": "chuān",
+    "meanings": [
+      "to wear",
+      "to put on",
+      "to dress",
+      "to bore through",
+      "to pierce",
+      "to perforate",
+      "to penetrate",
+      "to pass through",
+      "to thread"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 430
+  },
+  {
+    "word": "学校",
+    "pinyin": "xué xiào",
+    "meanings": [
+      "school"
+    ],
+    "hsk_level": 1,
+    "classifier": "所",
+    "frequency": 430
+  },
+  {
+    "word": "花",
+    "pinyin": "huā",
+    "meanings": [
+      "flower",
+      "to spend (money/time)",
+      "fancy pattern"
+    ],
+    "hsk_level": 1,
+    "classifier": "朵",
+    "frequency": 435
+  },
+  {
+    "word": "坐",
+    "pinyin": "zuò",
+    "meanings": [
+      "to sit",
+      "to take seat",
+      "to take (bus)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 435
+  },
+  {
+    "word": "早",
+    "pinyin": "zǎo",
+    "meanings": [
+      "early",
+      "morning",
+      "Good morning!",
+      "long ago",
+      "prematurely"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 445
+  },
+  {
+    "word": "们",
+    "pinyin": "men",
+    "meanings": [
+      "plural marker for pronouns, and nouns referring to individuals"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 457
+  },
+  {
+    "word": "们",
+    "pinyin": "men",
+    "meanings": [
+      "plural marker for pronouns, and nouns referring to individuals"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 457
+  },
+  {
+    "word": "身上",
+    "pinyin": "shēn shang",
+    "meanings": [
+      "on the body",
+      "at hand",
+      "among"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 460
+  },
+  {
+    "word": "认识",
+    "pinyin": "rèn shi",
+    "meanings": [
+      "to know",
+      "to recognize",
+      "to be familiar with",
+      "to get acquainted with sb",
+      "knowledge",
+      "understanding",
+      "awareness",
+      "cognition"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 463
+  },
+  {
+    "word": "干",
+    "pinyin": "gān",
+    "meanings": [
+      "dry",
+      "in vain"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 463
+  },
+  {
+    "word": "干",
+    "pinyin": "gàn",
+    "meanings": [
+      "to do",
+      "to work",
+      "trunk",
+      "capable"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 463
+  },
+  {
+    "word": "睡",
+    "pinyin": "shuì",
+    "meanings": [
+      "to sleep",
+      "to lie down"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 464
+  },
+  {
+    "word": "明天",
+    "pinyin": "míng tiān",
+    "meanings": [
+      "tomorrow"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 469
+  },
+  {
+    "word": "回来",
+    "pinyin": "huí lai",
+    "meanings": [
+      "to return; to come back"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 480
+  },
+  {
+    "word": "四",
+    "pinyin": "sì",
+    "meanings": [
+      "four",
+      "4"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 481
+  },
+  {
+    "word": "块",
+    "pinyin": "kuài",
+    "meanings": [
+      "lump; chunk; piece",
+      "classifier for pieces of cloth, cake, soap etc",
+      "(coll.) classifier for money and currency units"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 483
+  },
+  {
+    "word": "外",
+    "pinyin": "wài",
+    "meanings": [
+      "outside",
+      "in addition",
+      "foreign",
+      "external"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 489
+  },
+  {
+    "word": "晚上",
+    "pinyin": "wǎn shang",
+    "meanings": [
+      "evening",
+      "night",
+      "in the evening"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 502
+  },
+  {
+    "word": "妈",
+    "pinyin": "mā",
+    "meanings": [
+      "ma",
+      "mom",
+      "mother"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 517
+  },
+  {
+    "word": "球",
+    "pinyin": "qiú",
+    "meanings": [
+      "ball",
+      "sphere",
+      "globe",
+      "ball game",
+      "match"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 场",
+    "frequency": 518
+  },
+  {
+    "word": "谢谢",
+    "pinyin": "xiè xie",
+    "meanings": [
+      "to thank",
+      "thanks",
+      "thank you"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 520
+  },
+  {
+    "word": "学",
+    "pinyin": "xué",
+    "meanings": [
+      "to learn",
+      "to study",
+      "to imitate",
+      "science",
+      "-ology"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 524
+  },
+  {
+    "word": "多少",
+    "pinyin": "duō shǎo",
+    "meanings": [
+      "number",
+      "amount",
+      "somewhat"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 526
+  },
+  {
+    "word": "多少",
+    "pinyin": "duō shao",
+    "meanings": [
+      "how much?",
+      "how many?"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 526
+  },
+  {
+    "word": "第二",
+    "pinyin": "dì èr",
+    "meanings": [
+      "second",
+      "number two",
+      "next",
+      "secondary"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 527
+  },
+  {
+    "word": "妈妈",
+    "pinyin": "mā ma",
+    "meanings": [
+      "mama",
+      "mommy",
+      "mother"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 527
+  },
+  {
+    "word": "错",
+    "pinyin": "cuò",
+    "meanings": [
+      "mistake",
+      "wrong",
+      "bad",
+      "complex",
+      "to miss"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 531
+  },
+  {
+    "word": "少",
+    "pinyin": "shǎo",
+    "meanings": [
+      "few",
+      "less"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 538
+  },
+  {
+    "word": "少",
+    "pinyin": "shào",
+    "meanings": [
+      "young"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 538
+  },
+  {
+    "word": "别的",
+    "pinyin": "bié de",
+    "meanings": [
+      "else",
+      "other"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 543
+  },
+  {
+    "word": "难",
+    "pinyin": "nán",
+    "meanings": [
+      "difficult",
+      "problem",
+      "hard"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 544
+  },
+  {
+    "word": "难",
+    "pinyin": "nàn",
+    "meanings": [
+      "disaster",
+      "distress"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 544
+  },
+  {
+    "word": "电影",
+    "pinyin": "diàn yǐng",
+    "meanings": [
+      "movie; film"
+    ],
+    "hsk_level": 1,
+    "classifier": "部 / 片 / 幕 / 场",
+    "frequency": 546
+  },
+  {
+    "word": "间",
+    "pinyin": "jiān",
+    "meanings": [
+      "between",
+      "among",
+      "room",
+      "within"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 546
+  },
+  {
+    "word": "哪",
+    "pinyin": "nǎ",
+    "meanings": [
+      "which",
+      "how"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 547
+  },
+  {
+    "word": "跑",
+    "pinyin": "pǎo",
+    "meanings": [
+      "to run",
+      "to run away"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 553
+  },
+  {
+    "word": "回家",
+    "pinyin": "huí jiā",
+    "meanings": [
+      "to return home"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 554
+  },
+  {
+    "word": "昨天",
+    "pinyin": "zuó tiān",
+    "meanings": [
+      "yesterday"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 557
+  },
+  {
+    "word": "晚",
+    "pinyin": "wǎn",
+    "meanings": [
+      "evening",
+      "night",
+      "late"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 558
+  },
+  {
+    "word": "书",
+    "pinyin": "shū",
+    "meanings": [
+      "book",
+      "to write"
+    ],
+    "hsk_level": 1,
+    "classifier": "本",
+    "frequency": 560
+  },
+  {
+    "word": "五",
+    "pinyin": "wǔ",
+    "meanings": [
+      "five",
+      "5"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 563
+  },
+  {
+    "word": "先生",
+    "pinyin": "xiān sheng",
+    "meanings": [
+      "teacher",
+      "gentleman; sir; mister (Mr.)",
+      "husband",
+      "(dialect) doctor"
+    ],
+    "hsk_level": 1,
+    "classifier": "位",
+    "frequency": 586
+  },
+  {
+    "word": "男",
+    "pinyin": "nán",
+    "meanings": [
+      "male",
+      "Baron, lowest of five orders of nobility 位"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 587
+  },
+  {
+    "word": "动",
+    "pinyin": "dòng",
+    "meanings": [
+      "(of sth) to move",
+      "to set in movement",
+      "to displace",
+      "to touch",
+      "to make use of",
+      "to stir (emotions)",
+      "to alter",
+      "abbr. for 动词, verb"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 588
+  },
+  {
+    "word": "医院",
+    "pinyin": "yī yuàn",
+    "meanings": [
+      "hospital"
+    ],
+    "hsk_level": 1,
+    "classifier": "所 / 家 / 座",
+    "frequency": 608
+  },
+  {
+    "word": "重",
+    "pinyin": "zhòng",
+    "meanings": [
+      "heavy",
+      "serious",
+      "important"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 608
+  },
+  {
+    "word": "重",
+    "pinyin": "chóng",
+    "meanings": [
+      "to repeat",
+      "again",
+      "layer"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 608
+  },
+  {
+    "word": "真的",
+    "pinyin": "zhēn de",
+    "meanings": [
+      "really, truly, indeed"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 622
+  },
+  {
+    "word": "子",
+    "pinyin": "zǐ",
+    "meanings": [
+      "son",
+      "child",
+      "seed",
+      "small thing"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 627
+  },
+  {
+    "word": "子",
+    "pinyin": "zi",
+    "meanings": [
+      "noun suffix"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 627
+  },
+  {
+    "word": "远",
+    "pinyin": "yuǎn",
+    "meanings": [
+      "far",
+      "distant",
+      "remote"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 635
+  },
+  {
+    "word": "口",
+    "pinyin": "kǒu",
+    "meanings": [
+      "mouth",
+      "classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+      "classifier for bites or mouthfuls"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 637
+  },
+  {
+    "word": "学生",
+    "pinyin": "xué sheng",
+    "meanings": [
+      "student",
+      "schoolchild"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 651
+  },
+  {
+    "word": "二",
+    "pinyin": "èr",
+    "meanings": [
+      "two",
+      "2",
+      "(Beijing dialect) stupid"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 664
+  },
+  {
+    "word": "儿子",
+    "pinyin": "ér zi",
+    "meanings": [
+      "son"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 665
+  },
+  {
+    "word": "明白",
+    "pinyin": "míng bai",
+    "meanings": [
+      "clear",
+      "obvious",
+      "unequivocal",
+      "to understand",
+      "to realize"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 676
+  },
+  {
+    "word": "杯",
+    "pinyin": "bēi",
+    "meanings": [
+      "cup",
+      "glass",
+      "trophy cup"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 684
+  },
+  {
+    "word": "记得",
+    "pinyin": "jì de",
+    "meanings": [
+      "to remember"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 699
+  },
+  {
+    "word": "歌",
+    "pinyin": "gē",
+    "meanings": [
+      "song",
+      "to sing"
+    ],
+    "hsk_level": 1,
+    "classifier": "首",
+    "frequency": 702
+  },
+  {
+    "word": "半",
+    "pinyin": "bàn",
+    "meanings": [
+      "half",
+      "semi-",
+      "incomplete",
+      "(after a number) and a half"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 727
+  },
+  {
+    "word": "中国",
+    "pinyin": "Zhōng guó",
+    "meanings": [
+      "China"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 729
+  },
+  {
+    "word": "身体",
+    "pinyin": "shēn tǐ",
+    "meanings": [
+      "the body",
+      "one's health",
+      "in person"
+    ],
+    "hsk_level": 1,
+    "classifier": "具 / 个",
+    "frequency": 731
+  },
+  {
+    "word": "元",
+    "pinyin": "yuán",
+    "meanings": [
+      "yuan (currency)",
+      "first",
+      "original",
+      "primary"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 744
+  },
+  {
+    "word": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meanings": [
+      "where",
+      "somewhere",
+      "anywhere"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 750
+  },
+  {
+    "word": "包",
+    "pinyin": "bāo",
+    "meanings": [
+      "to wrap",
+      "package",
+      "bag",
+      "to include",
+      "to contract"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 755
+  },
+  {
+    "word": "楼",
+    "pinyin": "lóu",
+    "meanings": [
+      "building",
+      "floor",
+      "storied building"
+    ],
+    "hsk_level": 1,
+    "classifier": "层",
+    "frequency": 765
+  },
+  {
+    "word": "那里",
+    "pinyin": "nà li",
+    "meanings": [
+      "there",
+      "that place"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 770
+  },
+  {
+    "word": "电视",
+    "pinyin": "diàn shì",
+    "meanings": [
+      "television; TV"
+    ],
+    "hsk_level": 1,
+    "classifier": "台 / 个",
+    "frequency": 779
+  },
+  {
+    "word": "飞",
+    "pinyin": "fēi",
+    "meanings": [
+      "to fly"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 779
+  },
+  {
+    "word": "介绍",
+    "pinyin": "jiè shào",
+    "meanings": [
+      "to introduce (sb to sb)",
+      "to give a presentation",
+      "to present (sb for a job etc)",
+      "introduction"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 779
+  },
+  {
+    "word": "下午",
+    "pinyin": "xià wǔ",
+    "meanings": [
+      "afternoon",
+      "p.m."
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 782
+  },
+  {
+    "word": "出去",
+    "pinyin": "chū qù",
+    "meanings": [
+      "to go out"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 784
+  },
+  {
+    "word": "学习",
+    "pinyin": "xué xí",
+    "meanings": [
+      "to learn",
+      "to study"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 789
+  },
+  {
+    "word": "老师",
+    "pinyin": "lǎo shī",
+    "meanings": [
+      "teacher"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 799
+  },
+  {
+    "word": "六",
+    "pinyin": "liù",
+    "meanings": [
+      "six",
+      "6"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 802
+  },
+  {
+    "word": "唱",
+    "pinyin": "chàng",
+    "meanings": [
+      "to sing",
+      "to call loudly",
+      "to chant"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 813
+  },
+  {
+    "word": "大学",
+    "pinyin": "dà xué",
+    "meanings": [
+      "university",
+      "college"
+    ],
+    "hsk_level": 1,
+    "classifier": "所",
+    "frequency": 814
+  },
+  {
+    "word": "病",
+    "pinyin": "bìng",
+    "meanings": [
+      "illness",
+      "disease",
+      "to fall ill",
+      "defect"
+    ],
+    "hsk_level": 1,
+    "classifier": "场",
+    "frequency": 827
+  },
+  {
+    "word": "医生",
+    "pinyin": "yī shēng",
+    "meanings": [
+      "doctor"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位 / 名",
+    "frequency": 827
+  },
+  {
+    "word": "名字",
+    "pinyin": "míng zi",
+    "meanings": [
+      "name (of a person or thing)"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 829
+  },
+  {
+    "word": "她们",
+    "pinyin": "tā men",
+    "meanings": [
+      "they",
+      "them (for females)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 836
+  },
+  {
+    "word": "马上",
+    "pinyin": "mǎ shàng",
+    "meanings": [
+      "at once",
+      "right away",
+      "immediately",
+      "on horseback (i.e. by military force)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 847
+  },
+  {
+    "word": "今年",
+    "pinyin": "jīn nián",
+    "meanings": [
+      "this year"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 851
+  },
+  {
+    "word": "手机",
+    "pinyin": "shǒu jī",
+    "meanings": [
+      "cell phone",
+      "mobile phone"
+    ],
+    "hsk_level": 1,
+    "classifier": "部 / 支",
+    "frequency": 857
+  },
+  {
+    "word": "忙",
+    "pinyin": "máng",
+    "meanings": [
+      "busy",
+      "hurriedly",
+      "to hurry",
+      "to rush"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 859
+  },
+  {
+    "word": "十",
+    "pinyin": "shí",
+    "meanings": [
+      "ten",
+      "10"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 865
+  },
+  {
+    "word": "看见",
+    "pinyin": "kàn jiàn",
+    "meanings": [
+      "to see",
+      "to catch sight of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 870
+  },
+  {
+    "word": "听到",
+    "pinyin": "tīng dào",
+    "meanings": [
+      "to hear"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 877
+  },
+  {
+    "word": "女儿",
+    "pinyin": "nu:3 ér",
+    "meanings": [
+      "daughter"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 879
+  },
+  {
+    "word": "说话",
+    "pinyin": "shuō huà",
+    "meanings": [
+      "to speak",
+      "to say",
+      "to talk",
+      "to gossip",
+      "to tell stories",
+      "talk",
+      "word"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 880
+  },
+  {
+    "word": "汽车",
+    "pinyin": "qì chē",
+    "meanings": [
+      "car",
+      "automobile",
+      "bus"
+    ],
+    "hsk_level": 1,
+    "classifier": "辆",
+    "frequency": 898
+  },
+  {
+    "word": "爸爸",
+    "pinyin": "bà ba",
+    "meanings": [
+      "(coll.) father; dad"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 908
+  },
+  {
+    "word": "字",
+    "pinyin": "zì",
+    "meanings": [
+      "letter",
+      "symbol",
+      "character",
+      "word",
+      "courtesy or style name traditionally given to males aged 20 in dynastic China"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 913
+  },
+  {
+    "word": "高兴",
+    "pinyin": "gāo xìng",
+    "meanings": [
+      "happy",
+      "glad",
+      "willing (to do sth)",
+      "in a cheerful mood"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 920
+  },
+  {
+    "word": "白",
+    "pinyin": "bái",
+    "meanings": [
+      "white",
+      "pure",
+      "bright",
+      "in vain",
+      "free of charge"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 930
+  },
+  {
+    "word": "去年",
+    "pinyin": "qù nián",
+    "meanings": [
+      "last year"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 933
+  },
+  {
+    "word": "热",
+    "pinyin": "rè",
+    "meanings": [
+      "to warm up",
+      "to heat up",
+      "hot (of weather)",
+      "heat",
+      "fervent"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 938
+  },
+  {
+    "word": "试",
+    "pinyin": "shì",
+    "meanings": [
+      "to test",
+      "to try",
+      "experiment",
+      "examination",
+      "test"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 938
+  },
+  {
+    "word": "来到",
+    "pinyin": "lái dào",
+    "meanings": [
+      "to arrive; to come"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 943
+  },
+  {
+    "word": "睡觉",
+    "pinyin": "shuì jiào",
+    "meanings": [
+      "to go to bed",
+      "to sleep"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 944
+  },
+  {
+    "word": "电脑",
+    "pinyin": "diàn nǎo",
+    "meanings": [
+      "computer"
+    ],
+    "hsk_level": 1,
+    "classifier": "台",
+    "frequency": 946
+  },
+  {
+    "word": "票",
+    "pinyin": "piào",
+    "meanings": [
+      "ticket",
+      "ballot",
+      "banknote",
+      "person held for ransom",
+      "amateur performance of Chinese opera",
+      "classifier for groups, batches, business transactions"
+    ],
+    "hsk_level": 1,
+    "classifier": "张",
+    "frequency": 956
+  },
+  {
+    "word": "西",
+    "pinyin": "xī",
+    "meanings": [
+      "west"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 958
+  },
+  {
+    "word": "床",
+    "pinyin": "chuáng",
+    "meanings": [
+      "bed",
+      "couch"
+    ],
+    "hsk_level": 1,
+    "classifier": "张",
+    "frequency": 961
+  },
+  {
+    "word": "第",
+    "pinyin": "dì",
+    "meanings": [
+      "(prefix indicating ordinal number, as in 六 \"sixth\")",
+      "(literary) grades in which successful candidates in the imperial examinations were placed",
+      "(old) residence of a high official",
+      "(literary) but; however",
+      "(literary) only; just"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 962
+  },
+  {
+    "word": "第",
+    "pinyin": "dì",
+    "meanings": [
+      "(prefix indicating ordinal number, as in 六 \"sixth\")",
+      "(literary) grades in which successful candidates in the imperial examinations were placed",
+      "(old) residence of a high official",
+      "(literary) but; however",
+      "(literary) only; just"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 962
+  },
+  {
+    "word": "回到",
+    "pinyin": "huí dào",
+    "meanings": [
+      "to return to"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 962
+  },
+  {
+    "word": "差",
+    "pinyin": "chà",
+    "meanings": [
+      "bad",
+      "poor",
+      "inferior",
+      "to lack",
+      "different"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 968
+  },
+  {
+    "word": "家里",
+    "pinyin": "jiā lǐ",
+    "meanings": [
+      "home"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 973
+  },
+  {
+    "word": "教",
+    "pinyin": "jiāo",
+    "meanings": [
+      "to teach"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 988
+  },
+  {
+    "word": "教",
+    "pinyin": "jiào",
+    "meanings": [
+      "religion",
+      "teaching"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 988
+  },
+  {
+    "word": "不用",
+    "pinyin": "bù yòng",
+    "meanings": [
+      "need not"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1013
+  },
+  {
+    "word": "读",
+    "pinyin": "dú",
+    "meanings": [
+      "to read",
+      "to study",
+      "to pronounce"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1013
+  },
+  {
+    "word": "忘",
+    "pinyin": "wàng",
+    "meanings": [
+      "to forget",
+      "to overlook",
+      "to neglect"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1015
+  },
+  {
+    "word": "认真",
+    "pinyin": "rèn zhēn",
+    "meanings": [
+      "conscientious",
+      "earnest",
+      "serious",
+      "to take seriously",
+      "to take to heart"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1020
+  },
+  {
+    "word": "电",
+    "pinyin": "diàn",
+    "meanings": [
+      "lightning",
+      "electricity",
+      "electric (bound form)",
+      "to get (or give) an electric shock",
+      "phone call or telegram etc",
+      "to send via telephone or telegram etc"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1027
+  },
+  {
+    "word": "房子",
+    "pinyin": "fáng zi",
+    "meanings": [
+      "house",
+      "building (single- or two-story)",
+      "apartment",
+      "room"
+    ],
+    "hsk_level": 1,
+    "classifier": "栋 / 幢 / 座 / 套 / 间",
+    "frequency": 1027
+  },
+  {
+    "word": "冷",
+    "pinyin": "lěng",
+    "meanings": [
+      "cold"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1027
+  },
+  {
+    "word": "山",
+    "pinyin": "shān",
+    "meanings": [
+      "mountain",
+      "hill"
+    ],
+    "hsk_level": 1,
+    "classifier": "座",
+    "frequency": 1030
+  },
+  {
+    "word": "常",
+    "pinyin": "cháng",
+    "meanings": [
+      "often",
+      "frequently",
+      "common",
+      "constant",
+      "always"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1057
+  },
+  {
+    "word": "飞机",
+    "pinyin": "fēi jī",
+    "meanings": [
+      "airplane"
+    ],
+    "hsk_level": 1,
+    "classifier": "架",
+    "frequency": 1067
+  },
+  {
+    "word": "早上",
+    "pinyin": "zǎo shang",
+    "meanings": [
+      "early morning"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1092
+  },
+  {
+    "word": "回答",
+    "pinyin": "huí dá",
+    "meanings": [
+      "to reply; to answer",
+      "reply; answer"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1100
+  },
+  {
+    "word": "记",
+    "pinyin": "jì",
+    "meanings": [
+      "to record",
+      "to note",
+      "to memorize",
+      "to remember",
+      "mark",
+      "sign",
+      "classifier for blows, kicks, shots"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1123
+  },
+  {
+    "word": "关",
+    "pinyin": "guān",
+    "meanings": [
+      "to close",
+      "to turn off",
+      "to concern"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1129
+  },
+  {
+    "word": "哥",
+    "pinyin": "gē",
+    "meanings": [
+      "elder brother"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1132
+  },
+  {
+    "word": "爸",
+    "pinyin": "bà",
+    "meanings": [
+      "father",
+      "dad",
+      "pa",
+      "papa"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1142
+  },
+  {
+    "word": "风",
+    "pinyin": "fēng",
+    "meanings": [
+      "wind",
+      "news",
+      "style",
+      "custom",
+      "manner"
+    ],
+    "hsk_level": 1,
+    "classifier": "阵 / 丝",
+    "frequency": 1150
+  },
+  {
+    "word": "回去",
+    "pinyin": "huí qu",
+    "meanings": [
+      "to return",
+      "to go back"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1160
+  },
+  {
+    "word": "累",
+    "pinyin": "lèi",
+    "meanings": [
+      "tired",
+      "weary",
+      "to strain"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1197
+  },
+  {
+    "word": "累",
+    "pinyin": "lěi",
+    "meanings": [
+      "to accumulate",
+      "continuous",
+      "repeated"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1197
+  },
+  {
+    "word": "打开",
+    "pinyin": "dǎ kāi",
+    "meanings": [
+      "to open",
+      "to show (a ticket)",
+      "to turn on",
+      "to switch on"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1199
+  },
+  {
+    "word": "病人",
+    "pinyin": "bìng rén",
+    "meanings": [
+      "sick person",
+      "patient",
+      "invalid"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1209
+  },
+  {
+    "word": "肉",
+    "pinyin": "ròu",
+    "meanings": [
+      "meat",
+      "flesh",
+      "pulp (of a fruit)",
+      "(coll.) (of a fruit) squashy",
+      "(of a person) flabby",
+      "irresolute",
+      "Kangxi radical 130"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1215
+  },
+  {
+    "word": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "meanings": [
+      "to make a telephone call"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1218
+  },
+  {
+    "word": "休息",
+    "pinyin": "xiū xi",
+    "meanings": [
+      "rest",
+      "to rest"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1225
+  },
+  {
+    "word": "班",
+    "pinyin": "bān",
+    "meanings": [
+      "class",
+      "team",
+      "work shift",
+      "squad"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1238
+  },
+  {
+    "word": "坏",
+    "pinyin": "huài",
+    "meanings": [
+      "bad",
+      "spoiled",
+      "broken",
+      "to break down",
+      "(suffix) to the utmost"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1239
+  },
+  {
+    "word": "一边",
+    "pinyin": "yī biān",
+    "meanings": [
+      "one side",
+      "either side",
+      "on the one hand",
+      "on the other hand",
+      "doing while"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1241
+  },
+  {
+    "word": "洗",
+    "pinyin": "xǐ",
+    "meanings": [
+      "to wash; to bathe",
+      "to develop (photographs)",
+      "to shuffle (cards etc)",
+      "to erase (a recording)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1298
+  },
+  {
+    "word": "有的",
+    "pinyin": "yǒu de",
+    "meanings": [
+      "(there are) some (who are...)",
+      "some (exist)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1300
+  },
+  {
+    "word": "毛",
+    "pinyin": "máo",
+    "meanings": [
+      "hair",
+      "feather",
+      "wool",
+      "coarse"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1319
+  },
+  {
+    "word": "忘记",
+    "pinyin": "wàng jì",
+    "meanings": [
+      "to forget"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1335
+  },
+  {
+    "word": "房间",
+    "pinyin": "fáng jiān",
+    "meanings": [
+      "room"
+    ],
+    "hsk_level": 1,
+    "classifier": "间 / 个",
+    "frequency": 1357
+  },
+  {
+    "word": "八",
+    "pinyin": "bā",
+    "meanings": [
+      "eight; 8"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1362
+  },
+  {
+    "word": "左",
+    "pinyin": "zuǒ",
+    "meanings": [
+      "left",
+      "east",
+      "unorthodox"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1382
+  },
+  {
+    "word": "吃饭",
+    "pinyin": "chī fàn",
+    "meanings": [
+      "to have a meal",
+      "to eat",
+      "to make a living"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1415
+  },
+  {
+    "word": "动作",
+    "pinyin": "dòng zuò",
+    "meanings": [
+      "movement; motion; action",
+      "to act; to move"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1418
+  },
+  {
+    "word": "七",
+    "pinyin": "qī",
+    "meanings": [
+      "seven",
+      "7"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1419
+  },
+  {
+    "word": "菜",
+    "pinyin": "cài",
+    "meanings": [
+      "dish (type of food)",
+      "vegetable",
+      "cuisine",
+      "(coll.) (one's) type",
+      "(of one's skills etc) weak",
+      "poor"
+    ],
+    "hsk_level": 1,
+    "classifier": "盘 / 道",
+    "frequency": 1448
+  },
+  {
+    "word": "衣服",
+    "pinyin": "yī fu",
+    "meanings": [
+      "clothes"
+    ],
+    "hsk_level": 1,
+    "classifier": "件 / 套",
+    "frequency": 1472
+  },
+  {
+    "word": "饿",
+    "pinyin": "è",
+    "meanings": [
+      "to be hungry",
+      "hungry",
+      "to starve (sb)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1477
+  },
+  {
+    "word": "树",
+    "pinyin": "shù",
+    "meanings": [
+      "tree",
+      "to cultivate",
+      "to set up"
+    ],
+    "hsk_level": 1,
+    "classifier": "棵",
+    "frequency": 1481
+  },
+  {
+    "word": "右",
+    "pinyin": "yòu",
+    "meanings": [
+      "(bound form) right; right-hand side",
+      "(bound form) (politics) right of center",
+      "(bound form) (old) west",
+      "(literary) the right side as the side of precedence"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1481
+  },
+  {
+    "word": "上班",
+    "pinyin": "shàng bān",
+    "meanings": [
+      "to go to work",
+      "to be on duty",
+      "to start work",
+      "to go to the office"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1495
+  },
+  {
+    "word": "生日",
+    "pinyin": "shēng rì",
+    "meanings": [
+      "birthday"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1506
+  },
+  {
+    "word": "东",
+    "pinyin": "dōng",
+    "meanings": [
+      "east",
+      "host"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1509
+  },
+  {
+    "word": "姐姐",
+    "pinyin": "jiě jie",
+    "meanings": [
+      "older sister"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1513
+  },
+  {
+    "word": "课",
+    "pinyin": "kè",
+    "meanings": [
+      "subject",
+      "course",
+      "class",
+      "lesson",
+      "to levy",
+      "tax",
+      "form of divination"
+    ],
+    "hsk_level": 1,
+    "classifier": "门 / 堂 / 节",
+    "frequency": 1517
+  },
+  {
+    "word": "国",
+    "pinyin": "guó",
+    "meanings": [
+      "country",
+      "nation",
+      "state"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1527
+  },
+  {
+    "word": "饭",
+    "pinyin": "fàn",
+    "meanings": [
+      "cooked rice",
+      "meal",
+      "(loanword) fan",
+      "devotee"
+    ],
+    "hsk_level": 1,
+    "classifier": "碗 / 顿",
+    "frequency": 1529
+  },
+  {
+    "word": "一半",
+    "pinyin": "yī bàn",
+    "meanings": [
+      "half"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1554
+  },
+  {
+    "word": "家人",
+    "pinyin": "jiā rén",
+    "meanings": [
+      "family member",
+      "(old) servant"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1562
+  },
+  {
+    "word": "有时",
+    "pinyin": "yǒu shí",
+    "meanings": [
+      "sometimes",
+      "now and then"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1568
+  },
+  {
+    "word": "小姐",
+    "pinyin": "xiǎo jie",
+    "meanings": [
+      "young lady",
+      "miss",
+      "(slang) prostitute"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 1575
+  },
+  {
+    "word": "对不起",
+    "pinyin": "duì bu qǐ",
+    "meanings": [
+      "I'm sorry; excuse me; I beg your pardon",
+      "to let (sb) down; to disappoint"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1577
+  },
+  {
+    "word": "进去",
+    "pinyin": "jìn qù",
+    "meanings": [
+      "to go in"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1624
+  },
+  {
+    "word": "哥哥",
+    "pinyin": "gē ge",
+    "meanings": [
+      "older brother"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 1655
+  },
+  {
+    "word": "没什么",
+    "pinyin": "méi shén me",
+    "meanings": [
+      "nothing",
+      "it doesn't matter",
+      "it's nothing",
+      "never mind"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1659
+  },
+  {
+    "word": "路上",
+    "pinyin": "lù shang",
+    "meanings": [
+      "on the road",
+      "on a journey",
+      "road surface"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1669
+  },
+  {
+    "word": "天气",
+    "pinyin": "tiān qì",
+    "meanings": [
+      "weather"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1675
+  },
+  {
+    "word": "最好",
+    "pinyin": "zuì hǎo",
+    "meanings": [
+      "best",
+      "(you) had better (do what we suggest)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1704
+  },
+  {
+    "word": "南",
+    "pinyin": "nán",
+    "meanings": [
+      "south"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1709
+  },
+  {
+    "word": "考试",
+    "pinyin": "kǎo shì",
+    "meanings": [
+      "to take an exam",
+      "exam"
+    ],
+    "hsk_level": 1,
+    "classifier": "次",
+    "frequency": 1718
+  },
+  {
+    "word": "有时候",
+    "pinyin": "yǒu shí hou",
+    "meanings": [
+      "sometimes"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1725
+  },
+  {
+    "word": "慢",
+    "pinyin": "màn",
+    "meanings": [
+      "slow"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1770
+  },
+  {
+    "word": "旁边",
+    "pinyin": "páng biān",
+    "meanings": [
+      "side; adjacent place"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1815
+  },
+  {
+    "word": "同学",
+    "pinyin": "tóng xué",
+    "meanings": [
+      "to study at the same school",
+      "fellow student",
+      "classmate"
+    ],
+    "hsk_level": 1,
+    "classifier": "位 / 个",
+    "frequency": 1828
+  },
+  {
+    "word": "北",
+    "pinyin": "běi",
+    "meanings": [
+      "north",
+      "(classical) to be defeated"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1835
+  },
+  {
+    "word": "帮忙",
+    "pinyin": "bāng máng",
+    "meanings": [
+      "to help",
+      "to lend a hand",
+      "to do a favor",
+      "to do a good turn"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1860
+  },
+  {
+    "word": "进来",
+    "pinyin": "jìn lái",
+    "meanings": [
+      "to come in"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1870
+  },
+  {
+    "word": "见面",
+    "pinyin": "jiàn miàn",
+    "meanings": [
+      "to meet; to see each other"
+    ],
+    "hsk_level": 1,
+    "classifier": "次",
+    "frequency": 1876
+  },
+  {
+    "word": "好看",
+    "pinyin": "hǎo kàn",
+    "meanings": [
+      "good-looking",
+      "nice-looking",
+      "good (of a movie, book, TV show etc)",
+      "embarrassed",
+      "humiliated"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1877
+  },
+  {
+    "word": "中间",
+    "pinyin": "zhōng jiān",
+    "meanings": [
+      "the middle; the inside",
+      "in the middle; within; between; among",
+      "during; in the meantime"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1889
+  },
+  {
+    "word": "女生",
+    "pinyin": "nu:3 shēng",
+    "meanings": [
+      "schoolgirl",
+      "female student",
+      "girl"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1894
+  },
+  {
+    "word": "茶",
+    "pinyin": "chá",
+    "meanings": [
+      "tea",
+      "tea plant"
+    ],
+    "hsk_level": 1,
+    "classifier": "杯 / 壶",
+    "frequency": 1910
+  },
+  {
+    "word": "地点",
+    "pinyin": "dì diǎn",
+    "meanings": [
+      "place",
+      "site",
+      "location",
+      "venue"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1921
+  },
+  {
+    "word": "雨",
+    "pinyin": "yǔ",
+    "meanings": [
+      "rain"
+    ],
+    "hsk_level": 1,
+    "classifier": "阵, 场",
+    "frequency": 1929
+  },
+  {
+    "word": "星期",
+    "pinyin": "xīng qī",
+    "meanings": [
+      "week",
+      "day of the week",
+      "Sunday"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 1956
+  },
+  {
+    "word": "车上",
+    "pinyin": "chē shàng",
+    "meanings": [
+      "Car"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1997
+  },
+  {
+    "word": "考",
+    "pinyin": "kǎo",
+    "meanings": [
+      "to test",
+      "to examine",
+      "to take an exam"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2030
+  },
+  {
+    "word": "九",
+    "pinyin": "jiǔ",
+    "meanings": [
+      "nine",
+      "9"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2040
+  },
+  {
+    "word": "妹妹",
+    "pinyin": "mèi mei",
+    "meanings": [
+      "younger sister",
+      "young woman"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 2093
+  },
+  {
+    "word": "生气",
+    "pinyin": "shēng qì",
+    "meanings": [
+      "to get angry",
+      "to take offense",
+      "angry",
+      "vitality",
+      "liveliness"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2113
+  },
+  {
+    "word": "地上",
+    "pinyin": "dì shang",
+    "meanings": [
+      "on the ground",
+      "on the floor"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2185
+  },
+  {
+    "word": "上午",
+    "pinyin": "shàng wǔ",
+    "meanings": [
+      "morning"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 2188
+  },
+  {
+    "word": "一会儿",
+    "pinyin": "yī huì r",
+    "meanings": [
+      "a moment",
+      "a while",
+      "in a moment",
+      "now...now...",
+      "also pr. [yī huǐ r]"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2207
+  },
+  {
+    "word": "贵",
+    "pinyin": "guì",
+    "meanings": [
+      "expensive",
+      "noble",
+      "precious",
+      "(honorific) your"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2239
+  },
+  {
+    "word": "记住",
+    "pinyin": "jì zhu",
+    "meanings": [
+      "to remember",
+      "to bear in mind",
+      "to learn by heart"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2266
+  },
+  {
+    "word": "下次",
+    "pinyin": "xià cì",
+    "meanings": [
+      "next time"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2268
+  },
+  {
+    "word": "知识",
+    "pinyin": "zhī shi",
+    "meanings": [
+      "knowledge",
+      "intellectual"
+    ],
+    "hsk_level": 1,
+    "classifier": "门",
+    "frequency": 2284
+  },
+  {
+    "word": "机场",
+    "pinyin": "jī chǎng",
+    "meanings": [
+      "airport; airfield",
+      "(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship"
+    ],
+    "hsk_level": 1,
+    "classifier": "家 / 处",
+    "frequency": 2308
+  },
+  {
+    "word": "学院",
+    "pinyin": "xué yuàn",
+    "meanings": [
+      "college",
+      "educational institute",
+      "school",
+      "faculty"
+    ],
+    "hsk_level": 1,
+    "classifier": "所",
+    "frequency": 2360
+  },
+  {
+    "word": "老人",
+    "pinyin": "lǎo rén",
+    "meanings": [
+      "old man or woman",
+      "the elderly",
+      "one's aged parents or grandparents"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2395
+  },
+  {
+    "word": "页",
+    "pinyin": "yè",
+    "meanings": [
+      "page",
+      "leaf"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2404
+  },
+  {
+    "word": "工人",
+    "pinyin": "gōng rén",
+    "meanings": [
+      "worker"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 名",
+    "frequency": 2405
+  },
+  {
+    "word": "那边",
+    "pinyin": "nà bian",
+    "meanings": [
+      "over there",
+      "yonder"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2415
+  },
+  {
+    "word": "弟弟",
+    "pinyin": "dì di",
+    "meanings": [
+      "younger brother"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 位",
+    "frequency": 2424
+  },
+  {
+    "word": "干净",
+    "pinyin": "gān jìng",
+    "meanings": [
+      "clean",
+      "neat"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2430
+  },
+  {
+    "word": "在家",
+    "pinyin": "zài jiā",
+    "meanings": [
+      "to be at home",
+      "(at a workplace) to be in (as opposed to being away on official business 差)",
+      "(Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 家)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2444
+  },
+  {
+    "word": "百",
+    "pinyin": "bǎi",
+    "meanings": [
+      "hundred",
+      "numerous",
+      "all kinds of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2455
+  },
+  {
+    "word": "网上",
+    "pinyin": "wǎng shàng",
+    "meanings": [
+      "online"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2474
+  },
+  {
+    "word": "好吃",
+    "pinyin": "hǎo chī",
+    "meanings": [
+      "tasty",
+      "delicious"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2484
+  },
+  {
+    "word": "明年",
+    "pinyin": "míng nián",
+    "meanings": [
+      "next year"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2487
+  },
+  {
+    "word": "再见",
+    "pinyin": "zài jiàn",
+    "meanings": [
+      "goodbye",
+      "see you again later"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2487
+  },
+  {
+    "word": "妹",
+    "pinyin": "mèi",
+    "meanings": [
+      "younger sister"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2496
+  },
+  {
+    "word": "这儿",
+    "pinyin": "zhè r",
+    "meanings": [
+      "here"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2522
+  },
+  {
+    "word": "哪儿",
+    "pinyin": "nǎ r",
+    "meanings": [
+      "where?",
+      "wherever; anywhere; somewhere",
+      "(used in rhetorical questions) how can ...?; how could ...?"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2534
+  },
+  {
+    "word": "不对",
+    "pinyin": "bù duì",
+    "meanings": [
+      "incorrect",
+      "wrong",
+      "amiss",
+      "abnormal",
+      "queer"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2598
+  },
+  {
+    "word": "中午",
+    "pinyin": "zhōng wǔ",
+    "meanings": [
+      "noon",
+      "midday"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 2600
+  },
+  {
+    "word": "起床",
+    "pinyin": "qǐ chuáng",
+    "meanings": [
+      "to get out of bed",
+      "to get up"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2645
+  },
+  {
+    "word": "是不是",
+    "pinyin": "shì bù shì",
+    "meanings": [
+      "is or isn't",
+      "yes or no",
+      "whether or not"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2655
+  },
+  {
+    "word": "开车",
+    "pinyin": "kāi chē",
+    "meanings": [
+      "to drive a car"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2670
+  },
+  {
+    "word": "干什么",
+    "pinyin": "gàn shén me",
+    "meanings": [
+      "what are you doing?",
+      "what's he up to?"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2714
+  },
+  {
+    "word": "奶",
+    "pinyin": "nǎi",
+    "meanings": [
+      "milk",
+      "breast",
+      "to breastfeed"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2758
+  },
+  {
+    "word": "门口",
+    "pinyin": "mén kǒu",
+    "meanings": [
+      "doorway",
+      "gate"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 2762
+  },
+  {
+    "word": "常常",
+    "pinyin": "cháng cháng",
+    "meanings": [
+      "frequently",
+      "often"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2773
+  },
+  {
+    "word": "这边",
+    "pinyin": "zhè biān",
+    "meanings": [
+      "this side",
+      "here"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2774
+  },
+  {
+    "word": "男生",
+    "pinyin": "nán shēng",
+    "meanings": [
+      "schoolboy",
+      "male student",
+      "boy",
+      "guy (young adult male)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2784
+  },
+  {
+    "word": "火车",
+    "pinyin": "huǒ chē",
+    "meanings": [
+      "train"
+    ],
+    "hsk_level": 1,
+    "classifier": "列 / 节 / 班 / 趟",
+    "frequency": 2791
+  },
+  {
+    "word": "奶奶",
+    "pinyin": "nǎi nai",
+    "meanings": [
+      "(informal) grandma (paternal grandmother)",
+      "(respectful) mistress of the house",
+      "(coll.) boobies",
+      "breasts"
+    ],
+    "hsk_level": 1,
+    "classifier": "位",
+    "frequency": 2809
+  },
+  {
+    "word": "上次",
+    "pinyin": "shàng cì",
+    "meanings": [
+      "last time"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2829
+  },
+  {
+    "word": "唱歌",
+    "pinyin": "chàng gē",
+    "meanings": [
+      "to sing a song"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2876
+  },
+  {
+    "word": "右边",
+    "pinyin": "yòu bian",
+    "meanings": [
+      "right side",
+      "right, to the right"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2906
+  },
+  {
+    "word": "上学",
+    "pinyin": "shàng xué",
+    "meanings": [
+      "to go to school",
+      "to attend school"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 2965
+  },
+  {
+    "word": "牛奶",
+    "pinyin": "niú nǎi",
+    "meanings": [
+      "cow's milk"
+    ],
+    "hsk_level": 1,
+    "classifier": "瓶 / 杯",
+    "frequency": 2986
+  },
+  {
+    "word": "女朋友",
+    "pinyin": "nu:3 péng you",
+    "meanings": [
+      "girlfriend"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3004
+  },
+  {
+    "word": "上课",
+    "pinyin": "shàng kè",
+    "meanings": [
+      "to go to class",
+      "to attend class",
+      "to go to teach a class"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3042
+  },
+  {
+    "word": "爷爷",
+    "pinyin": "yé ye",
+    "meanings": [
+      "(coll.) father's father",
+      "paternal grandfather"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 3099
+  },
+  {
+    "word": "听见",
+    "pinyin": "tīng jiàn",
+    "meanings": [
+      "to hear"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3114
+  },
+  {
+    "word": "新年",
+    "pinyin": "xīn nián",
+    "meanings": [
+      "New Year"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 3160
+  },
+  {
+    "word": "男朋友",
+    "pinyin": "nán péng you",
+    "meanings": [
+      "boyfriend"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3176
+  },
+  {
+    "word": "下班",
+    "pinyin": "xià bān",
+    "meanings": [
+      "to finish work",
+      "to get off work"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3207
+  },
+  {
+    "word": "水果",
+    "pinyin": "shuǐ guǒ",
+    "meanings": [
+      "fruit"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 3271
+  },
+  {
+    "word": "读书",
+    "pinyin": "dú shū",
+    "meanings": [
+      "to read a book",
+      "to study",
+      "to attend school"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3285
+  },
+  {
+    "word": "那儿",
+    "pinyin": "nà r",
+    "meanings": [
+      "there"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3421
+  },
+  {
+    "word": "商店",
+    "pinyin": "shāng diàn",
+    "meanings": [
+      "store; shop"
+    ],
+    "hsk_level": 1,
+    "classifier": "家 / 个",
+    "frequency": 3479
+  },
+  {
+    "word": "鸡蛋",
+    "pinyin": "jī dàn",
+    "meanings": [
+      "(chicken) egg",
+      "hen's egg"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 打",
+    "frequency": 3501
+  },
+  {
+    "word": "没关系",
+    "pinyin": "méi guān xi",
+    "meanings": [
+      "it doesn't matter"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3541
+  },
+  {
+    "word": "地图",
+    "pinyin": "dì tú",
+    "meanings": [
+      "map"
+    ],
+    "hsk_level": 1,
+    "classifier": "张 / 本",
+    "frequency": 3548
+  },
+  {
+    "word": "姐",
+    "pinyin": "jiě",
+    "meanings": [
+      "older sister"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3576
+  },
+  {
+    "word": "坐下",
+    "pinyin": "zuò xia",
+    "meanings": [
+      "to sit down"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3600
+  },
+  {
+    "word": "零",
+    "pinyin": "líng",
+    "meanings": [
+      "zero",
+      "nought",
+      "zero sign",
+      "fractional",
+      "fragmentary",
+      "odd (of numbers)",
+      "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+      "fraction",
+      "(in mathematics) remainder (after division)",
+      "extra",
+      "to wither and fall",
+      "to wither"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3623
+  },
+  {
+    "word": "桌子",
+    "pinyin": "zhuō zi",
+    "meanings": [
+      "table",
+      "desk"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3639
+  },
+  {
+    "word": "桌子",
+    "pinyin": "zhuō zi",
+    "meanings": [
+      "table",
+      "desk"
+    ],
+    "hsk_level": 1,
+    "classifier": "张 / 套",
+    "frequency": 3639
+  },
+  {
+    "word": "白天",
+    "pinyin": "bái tiān",
+    "meanings": [
+      "daytime",
+      "during the day",
+      "day"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 3645
+  },
+  {
+    "word": "请问",
+    "pinyin": "qǐng wèn",
+    "meanings": [
+      "Excuse me, may I ask...?"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3689
+  },
+  {
+    "word": "哪些",
+    "pinyin": "nǎ xiē",
+    "meanings": [
+      "which ones?",
+      "who?",
+      "what?"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3741
+  },
+  {
+    "word": "晚饭",
+    "pinyin": "wǎn fàn",
+    "meanings": [
+      "evening meal",
+      "dinner",
+      "supper"
+    ],
+    "hsk_level": 1,
+    "classifier": "份 / 顿 / 次 / 餐",
+    "frequency": 3794
+  },
+  {
+    "word": "小学",
+    "pinyin": "xiǎo xué",
+    "meanings": [
+      "elementary school; primary school"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3819
+  },
+  {
+    "word": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "meanings": [
+      "library"
+    ],
+    "hsk_level": 1,
+    "classifier": "家 / 个",
+    "frequency": 3836
+  },
+  {
+    "word": "开玩笑",
+    "pinyin": "kāi wán xiào",
+    "meanings": [
+      "to play a joke",
+      "to make fun of",
+      "to joke"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3878
+  },
+  {
+    "word": "国外",
+    "pinyin": "guó wài",
+    "meanings": [
+      "abroad",
+      "external (affairs)",
+      "overseas",
+      "foreign"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 3896
+  },
+  {
+    "word": "日期",
+    "pinyin": "rì qī",
+    "meanings": [
+      "date"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 3928
+  },
+  {
+    "word": "饭店",
+    "pinyin": "fàn diàn",
+    "meanings": [
+      "restaurant",
+      "hotel"
+    ],
+    "hsk_level": 1,
+    "classifier": "家 / 个",
+    "frequency": 3998
+  },
+  {
+    "word": "中学",
+    "pinyin": "zhōng xué",
+    "meanings": [
+      "middle school"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 4042
+  },
+  {
+    "word": "上网",
+    "pinyin": "shàng wǎng",
+    "meanings": [
+      "to go online",
+      "to connect to the Internet",
+      "(of a document etc) to be uploaded to the Internet",
+      "(tennis, volleyball etc) to move in close to the net"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4061
+  },
+  {
+    "word": "商场",
+    "pinyin": "shāng chǎng",
+    "meanings": [
+      "shopping mall",
+      "shopping center",
+      "department store",
+      "emporium",
+      "the business world"
+    ],
+    "hsk_level": 1,
+    "classifier": "家",
+    "frequency": 4093
+  },
+  {
+    "word": "楼下",
+    "pinyin": "lóu xià",
+    "meanings": [
+      "downstairs"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4135
+  },
+  {
+    "word": "面包",
+    "pinyin": "miàn bāo",
+    "meanings": [
+      "bread"
+    ],
+    "hsk_level": 1,
+    "classifier": "片 / 袋 / 块",
+    "frequency": 4138
+  },
+  {
+    "word": "外国",
+    "pinyin": "wài guó",
+    "meanings": [
+      "foreign (country)"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 4151
+  },
+  {
+    "word": "生病",
+    "pinyin": "shēng bìng",
+    "meanings": [
+      "to fall ill"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4336
+  },
+  {
+    "word": "好听",
+    "pinyin": "hǎo tīng",
+    "meanings": [
+      "pleasant to hear"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4355
+  },
+  {
+    "word": "开会",
+    "pinyin": "kāi huì",
+    "meanings": [
+      "to hold a meeting",
+      "to attend a meeting"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4398
+  },
+  {
+    "word": "钱包",
+    "pinyin": "qián bāo",
+    "meanings": [
+      "purse",
+      "wallet"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4411
+  },
+  {
+    "word": "大学生",
+    "pinyin": "dà xué shēng",
+    "meanings": [
+      "university student",
+      "college student"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4422
+  },
+  {
+    "word": "车站",
+    "pinyin": "chē zhàn",
+    "meanings": [
+      "rail station",
+      "bus stop"
+    ],
+    "hsk_level": 1,
+    "classifier": "处 / 个",
+    "frequency": 4480
+  },
+  {
+    "word": "走路",
+    "pinyin": "zǒu lù",
+    "meanings": [
+      "to walk",
+      "to go on foot"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4517
+  },
+  {
+    "word": "小朋友",
+    "pinyin": "xiǎo péng yǒu",
+    "meanings": [
+      "child"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 4536
+  },
+  {
+    "word": "左边",
+    "pinyin": "zuǒ bian",
+    "meanings": [
+      "left",
+      "the left side",
+      "to the left of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4584
+  },
+  {
+    "word": "北京",
+    "pinyin": "Běi jīng",
+    "meanings": [
+      "Beijing, capital of the People's Republic of China"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4799
+  },
+  {
+    "word": "有用",
+    "pinyin": "yǒu yòng",
+    "meanings": [
+      "useful"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4834
+  },
+  {
+    "word": "爱好",
+    "pinyin": "ài hào",
+    "meanings": [
+      "to like; to be fond of; to take pleasure in; to be keen on",
+      "interest; hobby"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 4902
+  },
+  {
+    "word": "不大",
+    "pinyin": "bù dà",
+    "meanings": [
+      "not very",
+      "not too",
+      "not often"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 4915
+  },
+  {
+    "word": "午饭",
+    "pinyin": "wǔ fàn",
+    "meanings": [
+      "lunch"
+    ],
+    "hsk_level": 1,
+    "classifier": "份 / 顿 / 次 / 餐",
+    "frequency": 4986
+  },
+  {
+    "word": "上车",
+    "pinyin": "shàng chē",
+    "meanings": [
+      "to get on or into (a bus, train, car etc)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 5091
+  },
+  {
+    "word": "马路",
+    "pinyin": "mǎ lù",
+    "meanings": [
+      "street",
+      "road"
+    ],
+    "hsk_level": 1,
+    "classifier": "条",
+    "frequency": 5119
+  },
+  {
+    "word": "门票",
+    "pinyin": "mén piào",
+    "meanings": [
+      "ticket (for theater, cinema etc)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 5140
+  },
+  {
+    "word": "机票",
+    "pinyin": "jī piào",
+    "meanings": [
+      "air ticket",
+      "passenger ticket"
+    ],
+    "hsk_level": 1,
+    "classifier": "张",
+    "frequency": 5209
+  },
+  {
+    "word": "楼上",
+    "pinyin": "lóu shàng",
+    "meanings": [
+      "upstairs",
+      "(Internet slang) previous poster in a forum thread"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 5267
+  },
+  {
+    "word": "打球",
+    "pinyin": "dǎ qiú",
+    "meanings": [
+      "to play ball",
+      "to play with a ball"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 5476
+  },
+  {
+    "word": "下雨",
+    "pinyin": "xià yǔ",
+    "meanings": [
+      "to rain"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 5648
+  },
+  {
+    "word": "下车",
+    "pinyin": "xià chē",
+    "meanings": [
+      "to get off or out of (a bus, train, car etc)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 6014
+  },
+  {
+    "word": "杯子",
+    "pinyin": "bēi zi",
+    "meanings": [
+      "cup",
+      "glass"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 只",
+    "frequency": 6162
+  },
+  {
+    "word": "放假",
+    "pinyin": "fàng jià",
+    "meanings": [
+      "to have a holiday or vacation"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 6177
+  },
+  {
+    "word": "路口",
+    "pinyin": "lù kǒu",
+    "meanings": [
+      "crossing",
+      "intersection (of roads)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 6184
+  },
+  {
+    "word": "有名",
+    "pinyin": "yǒu míng",
+    "meanings": [
+      "famous",
+      "well-known"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 6219
+  },
+  {
+    "word": "中文",
+    "pinyin": "Zhōng wén",
+    "meanings": [
+      "Chinese language"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 6459
+  },
+  {
+    "word": "弟",
+    "pinyin": "dì",
+    "meanings": [
+      "younger brother"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 6568
+  },
+  {
+    "word": "电视机",
+    "pinyin": "diàn shì jī",
+    "meanings": [
+      "television set"
+    ],
+    "hsk_level": 1,
+    "classifier": "台",
+    "frequency": 6649
+  },
+  {
+    "word": "早饭",
+    "pinyin": "zǎo fàn",
+    "meanings": [
+      "breakfast"
+    ],
+    "hsk_level": 1,
+    "classifier": "份 / 顿 / 次 / 餐",
+    "frequency": 6748
+  },
+  {
+    "word": "一点儿",
+    "pinyin": "yī diǎn r",
+    "meanings": [
+      "erhua variant of 一点"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 6921
+  },
+  {
+    "word": "书店",
+    "pinyin": "shū diàn",
+    "meanings": [
+      "bookstore"
+    ],
+    "hsk_level": 1,
+    "classifier": "家",
+    "frequency": 7174
+  },
+  {
+    "word": "放学",
+    "pinyin": "fàng xué",
+    "meanings": [
+      "to dismiss students at the end of the school day"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 7209
+  },
+  {
+    "word": "关上",
+    "pinyin": "guān shàng",
+    "meanings": [
+      "to close (a door)",
+      "to turn off (light, electrical equipment etc)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 7234
+  },
+  {
+    "word": "玩儿",
+    "pinyin": "wán r",
+    "meanings": [
+      "to play",
+      "to have fun",
+      "to hang out"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 7297
+  },
+  {
+    "word": "半天",
+    "pinyin": "bàn tiān",
+    "meanings": [
+      "half of the day",
+      "a long time",
+      "quite a while",
+      "midair"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 7467
+  },
+  {
+    "word": "星期天",
+    "pinyin": "Xīng qī tiān",
+    "meanings": [
+      "Sunday"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 7577
+  },
+  {
+    "word": "车票",
+    "pinyin": "chē piào",
+    "meanings": [
+      "ticket (for a bus or train)"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 7701
+  },
+  {
+    "word": "看病",
+    "pinyin": "kàn bìng",
+    "meanings": [
+      "to visit a doctor",
+      "to see a patient"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 7705
+  },
+  {
+    "word": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "meanings": [
+      "cinema; movie theater"
+    ],
+    "hsk_level": 1,
+    "classifier": "家 / 座",
+    "frequency": 7945
+  },
+  {
+    "word": "前天",
+    "pinyin": "qián tiān",
+    "meanings": [
+      "the day before yesterday"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 8117
+  },
+  {
+    "word": "后天",
+    "pinyin": "hòu tiān",
+    "meanings": [
+      "the day after tomorrow",
+      "life after birth (the period in which one develops through experiences, contrasted with 天)",
+      "acquired (not innate or congenital)",
+      "a posteriori"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 9407
+  },
+  {
+    "word": "渴",
+    "pinyin": "kě",
+    "meanings": [
+      "thirsty"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 9442
+  },
+  {
+    "word": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "meanings": [
+      "toilet",
+      "lavatory",
+      "washroom"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 9674
+  },
+  {
+    "word": "下课",
+    "pinyin": "xià kè",
+    "meanings": [
+      "to finish class",
+      "to get out of class",
+      "(fig.) (esp. of a sports coach) to be dismissed",
+      "to be fired"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 9694
+  },
+  {
+    "word": "请假",
+    "pinyin": "qǐng jià",
+    "meanings": [
+      "to request leave of absence"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 10134
+  },
+  {
+    "word": "米饭",
+    "pinyin": "mǐ fàn",
+    "meanings": [
+      "(cooked) rice"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 10194
+  },
+  {
+    "word": "里边",
+    "pinyin": "lǐ bian",
+    "meanings": [
+      "inside"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 10810
+  },
+  {
+    "word": "外语",
+    "pinyin": "wài yǔ",
+    "meanings": [
+      "foreign language"
+    ],
+    "hsk_level": 1,
+    "classifier": "门",
+    "frequency": 11159
+  },
+  {
+    "word": "没事儿",
+    "pinyin": "méi shì r",
+    "meanings": [
+      "to have spare time",
+      "free from work",
+      "it's not important",
+      "it's nothing",
+      "never mind"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 11421
+  },
+  {
+    "word": "一块儿",
+    "pinyin": "yī kuài r",
+    "meanings": [
+      "erhua variant of 一块"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 11449
+  },
+  {
+    "word": "书包",
+    "pinyin": "shū bāo",
+    "meanings": [
+      "schoolbag",
+      "satchel",
+      "bookbag"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 只",
+    "frequency": 11861
+  },
+  {
+    "word": "小学生",
+    "pinyin": "xiǎo xué shēng",
+    "meanings": [
+      "primary school student",
+      "schoolchild",
+      "(fig.) beginner"
+    ],
+    "hsk_level": 1,
+    "classifier": "个 / 名",
+    "frequency": 12165
+  },
+  {
+    "word": "外边",
+    "pinyin": "wài bian",
+    "meanings": [
+      "outside",
+      "outer surface",
+      "abroad",
+      "place other than one's home"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 12319
+  },
+  {
+    "word": "中学生",
+    "pinyin": "zhōng xué shēng",
+    "meanings": [
+      "middle-school student",
+      "high school student"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 12707
+  },
+  {
+    "word": "本子",
+    "pinyin": "běn zi",
+    "meanings": [
+      "book",
+      "notebook",
+      "Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"",
+      "edition"
+    ],
+    "hsk_level": 1,
+    "classifier": "本",
+    "frequency": 12849
+  },
+  {
+    "word": "星期日",
+    "pinyin": "Xīng qī rì",
+    "meanings": [
+      "Sunday"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 12997
+  },
+  {
+    "word": "课本",
+    "pinyin": "kè běn",
+    "meanings": [
+      "textbook"
+    ],
+    "hsk_level": 1,
+    "classifier": "本",
+    "frequency": 13062
+  },
+  {
+    "word": "汉语",
+    "pinyin": "Hàn yǔ",
+    "meanings": [
+      "Chinese language"
+    ],
+    "hsk_level": 1,
+    "classifier": "门",
+    "frequency": 13422
+  },
+  {
+    "word": "后边",
+    "pinyin": "hòu bian",
+    "meanings": [
+      "the back; the rear; the last bit",
+      "behind; near the end; at the back",
+      "later; afterwards"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 14477
+  },
+  {
+    "word": "西边",
+    "pinyin": "xī biān",
+    "meanings": [
+      "west",
+      "west side",
+      "western part",
+      "to the west of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 14628
+  },
+  {
+    "word": "上边",
+    "pinyin": "shàng bian",
+    "meanings": [
+      "the top",
+      "above",
+      "overhead",
+      "upwards",
+      "the top margin",
+      "above-mentioned",
+      "those higher up"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 14760
+  },
+  {
+    "word": "打车",
+    "pinyin": "dǎ chē",
+    "meanings": [
+      "to take a taxi (in town)",
+      "to hitch a lift"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 15698
+  },
+  {
+    "word": "东边",
+    "pinyin": "dōng bian",
+    "meanings": [
+      "east",
+      "east side",
+      "eastern part",
+      "to the east of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 16314
+  },
+  {
+    "word": "包子",
+    "pinyin": "bāo zi",
+    "meanings": [
+      "bao (steamed stuffed bun)"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 16315
+  },
+  {
+    "word": "不客气",
+    "pinyin": "bù kè qi",
+    "meanings": [
+      "you're welcome",
+      "don't mention it",
+      "impolite",
+      "rude",
+      "blunt"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 16723
+  },
+  {
+    "word": "南边",
+    "pinyin": "nán bian",
+    "meanings": [
+      "south",
+      "south side",
+      "southern part",
+      "to the south of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 17587
+  },
+  {
+    "word": "北边",
+    "pinyin": "běi biān",
+    "meanings": [
+      "north",
+      "north side",
+      "northern part",
+      "to the north of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 17637
+  },
+  {
+    "word": "女孩儿",
+    "pinyin": "nu:3 hái r",
+    "meanings": [
+      "erhua variant of 孩"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 18271
+  },
+  {
+    "word": "下边",
+    "pinyin": "xià bian",
+    "meanings": [
+      "under",
+      "the underside",
+      "below"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 19063
+  },
+  {
+    "word": "汉字",
+    "pinyin": "hàn zì",
+    "meanings": [
+      "Chinese character",
+      "Japanese: kanji",
+      "Korean: hanja",
+      "Vietnamese: hán tự"
+    ],
+    "hsk_level": 1,
+    "classifier": "个",
+    "frequency": 19725
+  },
+  {
+    "word": "请进",
+    "pinyin": "qǐng jìn",
+    "meanings": [
+      "\"please come in\""
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 21213
+  },
+  {
+    "word": "好玩儿",
+    "pinyin": "hǎo wán r",
+    "meanings": [
+      "erhua variant of 玩"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 23411
+  },
+  {
+    "word": "前边",
+    "pinyin": "qián bian",
+    "meanings": [
+      "front",
+      "the front side",
+      "in front of"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 25408
+  },
+  {
+    "word": "小孩儿",
+    "pinyin": "xiǎo hái r",
+    "meanings": [
+      "erhua variant of 孩"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 25607
+  },
+  {
+    "word": "教学楼",
+    "pinyin": "jiào xué lóu",
+    "meanings": [
+      "teaching block",
+      "school building"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 29517
+  },
+  {
+    "word": "网友",
+    "pinyin": "wǎng yǒu",
+    "meanings": [
+      "online friend",
+      "Internet user"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 29751
+  },
+  {
+    "word": "课文",
+    "pinyin": "kè wén",
+    "meanings": [
+      "text"
+    ],
+    "hsk_level": 1,
+    "classifier": "篇",
+    "frequency": 30576
+  },
+  {
+    "word": "请坐",
+    "pinyin": "qǐng zuò",
+    "meanings": [
+      "please, have a seat"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 37277
+  },
+  {
+    "word": "半年",
+    "pinyin": "bàn nián",
+    "meanings": [
+      "half a year"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 37795
+  },
+  {
+    "word": "听写",
+    "pinyin": "tīng xiě",
+    "meanings": [
+      "(of a pupil) to write down (in a dictation exercise)",
+      "dictation",
+      "(music) to transcribe by ear"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 44026
+  },
+  {
+    "word": "面条儿",
+    "pinyin": "miàn tiáo r",
+    "meanings": [
+      "erhua variant of 面条"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1000000
+  },
+  {
+    "word": "男孩儿",
+    "pinyin": "nán hái r",
+    "meanings": [
+      "erhua variant of 孩"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1000000
+  },
+  {
+    "word": "一下儿",
+    "pinyin": "yī xià r",
+    "meanings": [
+      "erhua variant of 下"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1000000
+  },
+  {
+    "word": "有一些",
+    "pinyin": "yǒu yī xiē",
+    "meanings": [
+      "somewhat",
+      "rather",
+      "some"
+    ],
+    "hsk_level": 1,
+    "classifier": "",
+    "frequency": 1000000
+  }
+]
