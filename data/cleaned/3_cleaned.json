@@ -4,8 +4,8 @@
     "pinyin": "bǎ",
     "meanings": [
       "to hold",
-      "classifier for handfuls/bundles",
-      "object marker (把 + noun + verb)"
+      "classifier",
+      "object marker"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -81,7 +81,6 @@
     "meanings": [
       "and",
       "furthermore",
-      "together with",
       "to combine"
     ],
     "hsk_level": 3,
@@ -125,11 +124,10 @@
       "seed",
       "species",
       "kind",
-      "type",
-      "classifier for types"
+      "type"
     ],
     "hsk_level": 3,
-    "classifier": "",
+    "classifier": "种",
     "frequency": 179
   },
   {
@@ -268,7 +266,7 @@
       "classifier for flat objects"
     ],
     "hsk_level": 3,
-    "classifier": "",
+    "classifier": "张",
     "frequency": 316
   },
   {
@@ -330,6 +328,7 @@
     "meanings": [
       "beautiful",
       "good",
+      "to beautify",
       "USA (abbr.)"
     ],
     "hsk_level": 3,
@@ -466,7 +465,8 @@
       "to link",
       "to connect",
       "including",
-      "even"
+      "even",
+      "company (military)"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -587,31 +587,12 @@
     "frequency": 499
   },
   {
-    "word": "者",
-    "pinyin": "zhě",
-    "meanings": [
-      "(after a verb or adjective) one who (is) ...",
-      "(after a noun) person involved in ...",
-      "-er",
-      "-ist",
-      "(used after a number or 后 or 前 to refer to sth mentioned previously)",
-      "(used after a term, to mark a pause before defining the term)",
-      "(old) (used at the end of a command)",
-      "(old) this"
-    ],
-    "hsk_level": 3,
-    "classifier": "",
-    "frequency": 499
-  },
-  {
     "word": "转",
     "pinyin": "zhuǎn",
     "meanings": [
       "to turn",
       "to change direction",
-      "to transfer",
-      "to forward",
-      "to share"
+      "to transfer"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -623,9 +604,7 @@
     "meanings": [
       "to revolve",
       "to turn",
-      "to circle about",
-      "classifier for revolutions",
-      "classifier for repeated actions"
+      "to circle about"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -686,7 +665,9 @@
     "meanings": [
       "strong",
       "powerful",
-      "better"
+      "better",
+      "vigorous",
+      "best in category"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -698,7 +679,8 @@
     "meanings": [
       "to force",
       "to compel",
-      "to strive"
+      "to strive",
+      "to make an effort"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -887,7 +869,8 @@
     "pinyin": "mǎ",
     "meanings": [
       "horse",
-      "chess piece"
+      "chess piece (Chinese)",
+      "knight (chess)"
     ],
     "hsk_level": 3,
     "classifier": "匹",
@@ -1002,7 +985,9 @@
     "meanings": [
       "area",
       "district",
-      "region"
+      "region",
+      "small",
+      "to distinguish"
     ],
     "hsk_level": 3,
     "classifier": "个",
@@ -1031,7 +1016,7 @@
       "mind",
       "consciousness",
       "thought",
-      "essence"
+      "mental"
     ],
     "hsk_level": 3,
     "classifier": "个",
@@ -1057,7 +1042,8 @@
       "two",
       "double",
       "pair",
-      "both"
+      "both",
+      "even (number)"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -1174,10 +1160,11 @@
     "meanings": [
       "connection",
       "contact",
-      "to get in touch with"
+      "to get in touch with",
+      "to link"
     ],
     "hsk_level": 3,
-    "classifier": "",
+    "classifier": "笔",
     "frequency": 667
   },
   {
@@ -1241,8 +1228,7 @@
       "thread",
       "string",
       "wire",
-      "line",
-      "tier (city ranking)"
+      "line"
     ],
     "hsk_level": 3,
     "classifier": "条",
@@ -1270,8 +1256,8 @@
     "meanings": [
       "platform",
       "stage",
-      "Taiwan (abbr.)",
-      "desk"
+      "terrace",
+      "Taiwan (abbr.)"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -1488,26 +1474,6 @@
       "essence"
     ],
     "hsk_level": 3,
-    "classifier": "个",
-    "frequency": 775
-  },
-  {
-    "word": "性",
-    "pinyin": "xìng",
-    "meanings": [
-      "nature",
-      "character",
-      "property",
-      "quality",
-      "attribute",
-      "sexuality",
-      "sex",
-      "gender",
-      "suffix forming adjective from verb",
-      "suffix forming noun from adjective, corresponding to -ness or -ity",
-      "essence"
-    ],
-    "hsk_level": 3,
     "classifier": "",
     "frequency": 775
   },
@@ -1554,7 +1520,6 @@
     "meanings": [
       "to make an appointment",
       "approximately",
-      "to invite",
       "pact",
       "to economize"
     ],
@@ -1699,7 +1664,8 @@
       "power",
       "force",
       "strength",
-      "ability"
+      "ability",
+      "strenuously"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -1725,6 +1691,8 @@
     "meanings": [
       "to speak",
       "to talk",
+      "to converse",
+      "to chat",
       "to discuss"
     ],
     "hsk_level": 3,
@@ -1889,6 +1857,7 @@
     "meanings": [
       "to follow",
       "to comply with",
+      "varying according to...",
       "to allow"
     ],
     "hsk_level": 3,
@@ -1902,11 +1871,10 @@
       "to support",
       "branch",
       "division",
-      "to draw money",
-      "classifier for rods"
+      "classifier for rods, divisions, songs"
     ],
     "hsk_level": 3,
-    "classifier": "",
+    "classifier": "支",
     "frequency": 915
   },
   {
@@ -2019,8 +1987,7 @@
     "meanings": [
       "step",
       "pace",
-      "walk",
-      "stages"
+      "walk"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -2147,7 +2114,8 @@
     "word": "深",
     "pinyin": "shēn",
     "meanings": [
-      "deep"
+      "deep",
+      "profound"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -2240,6 +2208,7 @@
       "parent",
       "relative",
       "close",
+      "in person",
       "to kiss"
     ],
     "hsk_level": 3,
@@ -2559,7 +2528,8 @@
       "ox",
       "cow",
       "bull",
-      "awesome (slang)"
+      "awesome (slang)",
+      "newton (abbr.)"
     ],
     "hsk_level": 3,
     "classifier": "头",
@@ -2613,7 +2583,9 @@
     "meanings": [
       "group",
       "crowd",
-      "herd"
+      "herd",
+      "flock",
+      "pack"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -2654,7 +2626,7 @@
       "urgent",
       "ammunition",
       "fiery",
-      "hot"
+      "internal heat"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -2723,8 +2695,7 @@
     "pinyin": "zhù",
     "meanings": [
       "to wish",
-      "to pray for",
-      "to invoke spirits"
+      "to pray for"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -2992,8 +2963,7 @@
       "to chase",
       "to pursue",
       "to investigate",
-      "to reminisce",
-      "to court"
+      "to recall"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -3063,8 +3033,7 @@
     "pinyin": "dāo",
     "meanings": [
       "knife",
-      "blade",
-      "classifier for sets of paper"
+      "blade"
     ],
     "hsk_level": 3,
     "classifier": "把",
@@ -3237,9 +3206,7 @@
     "pinyin": "cháo",
     "meanings": [
       "dynasty",
-      "court",
-      "towards",
-      "facing"
+      "towards"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -3364,7 +3331,7 @@
       "vacant",
       "unoccupied",
       "space",
-      "free time"
+      "leisure"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -3497,7 +3464,8 @@
     "pinyin": "shì",
     "meanings": [
       "room",
-      "work unit"
+      "work unit",
+      "family or clan"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -3510,7 +3478,7 @@
       "age",
       "era",
       "epoch",
-      "period"
+      "period (in one's life)"
     ],
     "hsk_level": 3,
     "classifier": "个",
@@ -3541,7 +3509,6 @@
     "pinyin": "zhǔn",
     "meanings": [
       "to allow",
-      "to grant",
       "accurate",
       "standard",
       "definitely"
@@ -3583,7 +3550,8 @@
       "skin",
       "leather",
       "fur",
-      "naughty"
+      "naughty",
+      "pico-"
     ],
     "hsk_level": 3,
     "classifier": "张",
@@ -3605,7 +3573,19 @@
     "meanings": [
       "system",
       "department",
-      "to connect"
+      "faculty"
+    ],
+    "hsk_level": 3,
+    "classifier": "",
+    "frequency": 1415
+  },
+  {
+    "word": "系",
+    "pinyin": "jì",
+    "meanings": [
+      "to tie",
+      "to fasten",
+      "to button up"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -3627,7 +3607,6 @@
     "pinyin": "zhí",
     "meanings": [
       "straight",
-      "to straighten",
       "frank",
       "straightforward",
       "vertical"
@@ -3793,7 +3772,8 @@
       "period",
       "phase",
       "to hope",
-      "term"
+      "term",
+      "classifier for issues"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -3832,8 +3812,7 @@
     "meanings": [
       "to transfer",
       "tone",
-      "melody",
-      "key"
+      "melody"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -4115,8 +4094,7 @@
     "pinyin": "bǎo",
     "meanings": [
       "to protect",
-      "to guarantee",
-      "to ensure"
+      "to guarantee"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -4127,9 +4105,10 @@
     "pinyin": "tuán",
     "meanings": [
       "round",
-      "group",
+      "ball",
       "to gather",
-      "dumpling"
+      "group",
+      "classifier for a lump"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -4194,7 +4173,6 @@
       "certificate",
       "proof",
       "to prove",
-      "to demonstrate",
       "to confirm"
     ],
     "hsk_level": 3,
@@ -4438,7 +4416,6 @@
     "meanings": [
       "to press",
       "to push down",
-      "to keep under control",
       "pressure"
     ],
     "hsk_level": 3,
@@ -4607,11 +4584,10 @@
       "clock",
       "o'clock",
       "time",
-      "bell",
-      "handleless cup"
+      "bell"
     ],
     "hsk_level": 3,
-    "classifier": "座",
+    "classifier": "架",
     "frequency": 1714
   },
   {
@@ -4718,8 +4694,7 @@
       "to repair",
       "to build",
       "to study",
-      "to take (a class)",
-      "to decorate"
+      "to take (a class)"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -4936,7 +4911,9 @@
     "meanings": [
       "to rise",
       "to promote",
-      "liter"
+      "liter",
+      "to hoist",
+      "dry grain measure"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -4960,7 +4937,7 @@
       "to surround",
       "hard-pressed",
       "stranded",
-      "sleepy"
+      "destitute"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -4979,32 +4956,6 @@
     "hsk_level": 3,
     "classifier": "",
     "frequency": 1869
-  },
-  {
-    "word": "初",
-    "pinyin": "chū",
-    "meanings": [
-      "at first",
-      "(at the) beginning",
-      "first",
-      "junior",
-      "basic"
-    ],
-    "hsk_level": 3,
-    "classifier": "",
-    "frequency": 1869
-  },
-  {
-    "word": "员",
-    "pinyin": "yuán",
-    "meanings": [
-      "person",
-      "employee",
-      "member"
-    ],
-    "hsk_level": 3,
-    "classifier": "",
-    "frequency": 1874
   },
   {
     "word": "员",
@@ -5111,7 +5062,8 @@
       "to appoint",
       "responsibility",
       "to allow",
-      "no matter"
+      "no matter",
+      "classifier for terms"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -5314,8 +5266,8 @@
     "pinyin": "táng",
     "meanings": [
       "sugar",
-      "candy",
-      "sweets"
+      "sweets",
+      "candy"
     ],
     "hsk_level": 3,
     "classifier": "颗",
@@ -5671,9 +5623,7 @@
     "meanings": [
       "to swim",
       "to tour",
-      "to travel",
-      "to walk",
-      "to roam"
+      "to travel"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -5732,10 +5682,11 @@
     "word": "铁",
     "pinyin": "tiě",
     "meanings": [
-      "iron",
+      "iron (metal)",
       "hard",
       "strong",
-      "determined"
+      "determined",
+      "tight (slang)"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -5747,7 +5698,8 @@
     "meanings": [
       "record",
       "to copy",
-      "diary"
+      "diary",
+      "to hit"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -5823,7 +5775,8 @@
     "pinyin": "tāng",
     "meanings": [
       "soup",
-      "hot water"
+      "hot or boiling water",
+      "decoction of herbs"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -5879,7 +5832,7 @@
   },
   {
     "word": "女子",
-    "pinyin": "nu:3 zǐ",
+    "pinyin": "nǚ zǐ",
     "meanings": [
       "woman",
       "female"
@@ -5995,8 +5948,7 @@
     "pinyin": "chǎng",
     "meanings": [
       "factory",
-      "plant",
-      "works"
+      "plant"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -6177,7 +6129,8 @@
     "pinyin": "tǔ",
     "meanings": [
       "earth",
-      "soil",
+      "dust",
+      "clay",
       "local",
       "indigenous"
     ],
@@ -6192,7 +6145,8 @@
       "to read",
       "to study",
       "to miss",
-      "idea"
+      "idea",
+      "twenty (banker's)"
     ],
     "hsk_level": 3,
     "classifier": "顿",
@@ -6367,6 +6321,7 @@
     "pinyin": "xiàn dài",
     "meanings": [
       "modern times",
+      "modern age",
       "modern era"
     ],
     "hsk_level": 3,
@@ -6554,7 +6509,7 @@
       "goat"
     ],
     "hsk_level": 3,
-    "classifier": "只",
+    "classifier": "头",
     "frequency": 2574
   },
   {
@@ -6850,7 +6805,8 @@
       "neat",
       "even",
       "all together",
-      "identical"
+      "simultaneous",
+      "to even out"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -6921,7 +6877,8 @@
     "meanings": [
       "to encircle",
       "to surround",
-      "all around"
+      "all around",
+      "to wear by wrapping"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -7008,8 +6965,7 @@
     "pinyin": "fú",
     "meanings": [
       "good fortune",
-      "happiness",
-      "luck"
+      "happiness"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -7268,8 +7224,7 @@
     "pinyin": "fù",
     "meanings": [
       "rich",
-      "wealthy",
-      "abundant"
+      "wealthy"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -8262,7 +8217,19 @@
     "meanings": [
       "to belong to",
       "category",
-      "family members"
+      "family members",
+      "subordinate to"
+    ],
+    "hsk_level": 3,
+    "classifier": "",
+    "frequency": 3739
+  },
+  {
+    "word": "属",
+    "pinyin": "zhǔ",
+    "meanings": [
+      "to concentrate on",
+      "to fix attention on"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -9115,8 +9082,7 @@
     "pinyin": "fǎn fù",
     "meanings": [
       "repeatedly",
-      "over and over",
-      "unstable"
+      "over and over"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -9765,23 +9731,13 @@
   },
   {
     "word": "旅馆",
-    "pinyin": "lu:3 guǎn",
+    "pinyin": "lǚ guǎn",
     "meanings": [
       "hotel"
     ],
     "hsk_level": 3,
     "classifier": "家",
     "frequency": 5705
-  },
-  {
-    "word": "志愿者",
-    "pinyin": "zhì yuàn zhě",
-    "meanings": [
-      "volunteer"
-    ],
-    "hsk_level": 3,
-    "classifier": "",
-    "frequency": 5709
   },
   {
     "word": "志愿者",
@@ -10101,6 +10057,7 @@
       "to bind",
       "bunch",
       "bundle",
+      "classifier for bunches",
       "to control"
     ],
     "hsk_level": 3,
@@ -10366,7 +10323,7 @@
   },
   {
     "word": "子女",
-    "pinyin": "zǐ nu:3",
+    "pinyin": "zǐ nǚ",
     "meanings": [
       "children; sons and daughters"
     ],
@@ -11105,7 +11062,7 @@
   },
   {
     "word": "旅行社",
-    "pinyin": "lu:3 xíng shè",
+    "pinyin": "lǚ xíng shè",
     "meanings": [
       "travel agency"
     ],
@@ -11255,7 +11212,17 @@
     "word": "所长",
     "pinyin": "suǒ zhǎng",
     "meanings": [
-      "head of an institute"
+      "head of an institute etc"
+    ],
+    "hsk_level": 3,
+    "classifier": "",
+    "frequency": 13535
+  },
+  {
+    "word": "所长",
+    "pinyin": "suǒ cháng",
+    "meanings": [
+      "what one is good at"
     ],
     "hsk_level": 3,
     "classifier": "",
@@ -11350,7 +11317,7 @@
   },
   {
     "word": "绿茶",
-    "pinyin": "lu:4 chá",
+    "pinyin": "lǜ chá",
     "meanings": [
       "green tea",
       "(slang) (of a girl) seemingly innocent and charming but actually calculating and manipulative",

@@ -6,6 +6,7 @@ generate_all_hsk_levels_OLD.py
 
 # Generated files
 audio/
+test_audio/
 decks/
 data/generation_progress.json
 
