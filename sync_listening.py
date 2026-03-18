@@ -69,14 +69,19 @@ def upload_media(filename, data):
 # ----------------------------------------------------------------------
 # Audio generation
 # ----------------------------------------------------------------------
-def generate_audio(text, idx):
+def generate_audio(text, idx, speed=0.85):
+    """Generate audio with ElevenLabs at specified speed."""
     filename = f"listen_{int(time.time())}_{idx:03d}.mp3"
     path = AUDIO_DIR / filename
     try:
+        # Add speed parameter to the generation
         audio = eleven.text_to_speech.convert(
             voice_id="pTOe8BQRdydOEIgv0wFL",      # Change to your preferred voice
             text=text,
-            model_id="eleven_multilingual_v2"
+            model_id="eleven_multilingual_v2",
+            voice_settings={
+                "speed": speed  # Set speed (0.85 = 15% slower)
+            }
         )
         # Write to local file
         with open(path, "wb") as f:
@@ -113,6 +118,10 @@ def get_ai_suggestions(transcript, known_list, num_cards=5):
     自然语感：优先选择母语者日常会话中真正使用的表达
 
     难度适配：在用户已知内容（见已知短语列表）和视频难度之间找到“i+1”的黄金点
+
+    避免重复：已知短语列表中已包含用户已掌握的短语。请勿选择与列表中任何短语完全相同的表达——精确重复对学习无用。但含义相近、结构不同的短语是完全可以的。
+
+    初学者友好：用户是中文初学者，需要大量重复基础表达。请勿添加字幕中未出现的复杂内容——严格遵守视频实际使用的语言。
 
 学习情境说明：
 
@@ -189,10 +198,11 @@ def get_ai_suggestions(transcript, known_list, num_cards=5):
 # ----------------------------------------------------------------------
 # Main workflow
 # ----------------------------------------------------------------------
-def run(video_url, num_cards=5):
+def run(video_url, num_cards=5, speed=0.85):
     print("=" * 60)
     print("YOUTUBE LISTENING CARD GENERATOR")
     print("=" * 60)
+    print(f"Audio speed: {speed}x (1.0 = normal, <1 = slower, >1 = faster)")
 
     # 1. Extract video ID
     video_id = video_url.split("v=")[-1].split("&")[0]
@@ -240,8 +250,8 @@ def run(video_url, num_cards=5):
     # 6. Generate audio and add notes
     added = 0
     for idx, card in enumerate(phrases):
-        # Generate audio (this also uploads to Anki)
-        audio_file = generate_audio(card["hanzi"], idx)
+        # Generate audio with specified speed (this also uploads to Anki)
+        audio_file = generate_audio(card["hanzi"], idx, speed=speed)
         if not audio_file:
             print(f"❌ Skipping card due to audio failure: {card['hanzi']}")
             continue
@@ -278,5 +288,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("url", help="YouTube video URL")
     parser.add_argument("-n", "--num-cards", type=int, default=5, help="Number of cards to generate")
+    parser.add_argument("-s", "--speed", type=float, default=0.7, 
+                       help="Audio speed (0.7-1.2)")
     args = parser.parse_args()
-    run(args.url, args.num_cards)
+    run(args.url, args.num_cards, args.speed)
